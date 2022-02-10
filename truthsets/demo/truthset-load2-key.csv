@@ -1,0 +1,104 @@
+TEST_GROUP,RESOLVED_ENTITY_ID,MATCH_KEY,DATA_SOURCE,ENTITY_TYPE,RECORD_ID
+TI-1000,TI-1000-1,anchor,CUSTOMERS,PERSON,1001
+TI-1000,TI-1000-1,resolve: name var | dob swap | address | phone swap (moved),CUSTOMERS,PERSON,1002
+TI-1000,TI-1000-1,resolve: name | dob | email,CUSTOMERS,PERSON,1003
+TI-1000,TI-1000-1,resolve: weak name | address | email,CUSTOMERS,PERSON,1004
+TI-1000,TI-1000-2,moved: name | address | drlic (better match to rob sr),CUSTOMERS,PERSON,1005
+TI-1000,TI-1000-2,related:  name | address | dob diff (causes un-merge),WATCHLIST,PERSON,1006
+TI-1000,TI-1000-3,related: sur name | address  ,WATCHLIST,PERSON,1007
+TI-1000,TI-1000-4,norelate:  name only,WATCHLIST,PERSON,1008
+TI-1015,TI-1015-1,anchor,CUSTOMERS,PERSON,1009
+TI-1015,TI-1015-1,resolve: name var | dob format | address,CUSTOMERS,PERSON,1010
+TI-1015,TI-1015-1,moved: name var | dob | address,CUSTOMERS,PERSON,1011
+TI-1015,TI-1015-1,resolve: same name | dob  (adds Jed's address),WATCHLIST,PERSON,1012
+TI-1015,TI-1015-1,resolve: diff name | ssn | dob | addr (causes re-resolve),WATCHLIST,PERSON,1014
+TI-1015,TI-1015-3,anchor,CUSTOMERS,PERSON,1015
+TI-1015,TI-1015-3,resolve: name var | dob | addr,CUSTOMERS,PERSON,1016
+TI-1015,TI-1015-3,resolve: name | ssn ,CUSTOMERS,PERSON,1017
+TI-1015,TI-1015-3,resolve: name var | close dob | phone,CUSTOMERS,PERSON,1018
+TI-1015,TI-1015-4,related: sur name | address  | email,CUSTOMERS,PERSON,1019
+TI-1015,TI-1015-5,related: sur name | address  | email,CUSTOMERS,PERSON,1020
+TI-1015,TI-1015-5,resolve: no name | ssn | address | email (better match to Marsha),WATCHLIST,PERSON,1021
+TI-1017,TI-1017-1,anchor,CUSTOMERS,PERSON,1022
+TI-1017,TI-1017-1,resolve: very close name  | dob,CUSTOMERS,PERSON,1023
+TI-1017,TI-1017-1,resolve:  name var  | dob,WATCHLIST,PERSON,1024
+TI-1017,TI-1017-2,anchor,CUSTOMERS,PERSON,1025
+TI-1017,TI-1017-3,related: close name | dob (to darla),CUSTOMERS,PERSON,1026
+TI-1017,TI-1017-4,related: close name | dob (to darla),WATCHLIST,PERSON,1027
+TI-1020,TI-1020-1,anchor,CUSTOMERS,PERSON,1028
+TI-1020,TI-1020-2,related: name | address | generation diff,WATCHLIST,PERSON,1029
+TI-1021,TI-1021-1,anchor,CUSTOMERS,PERSON,1030
+TI-1021,TI-1021-1,resolve: close name | dob | address,CUSTOMERS,PERSON,1031
+TI-1022,TI-1022-1,anchor,CUSTOMERS,PERSON,1032
+TI-1022,TI-1022-1,resolve: name swap | dob swap | close phone,CUSTOMERS,PERSON,1033
+TI-1023,TI-1023-1,anchor,CUSTOMERS,PERSON,1034
+TI-1023,TI-1023-1,resolve: close name | dob | address,CUSTOMERS,PERSON,1035
+TI-1023,TI-1023-1,resolve: close name | dob | address,CUSTOMERS,PERSON,1036
+TI-1023,TI-1023-2,none: neither name or dob is close enough,WATCHLIST,PERSON,1037
+TI-1023,TI-1023-1,resolve: weak name | dob | address | email,WATCHLIST,PERSON,1038
+TI-1024,TI-1024-1,anchor,CUSTOMERS,PERSON,1039
+TI-1024,TI-1024-2,relate: name | diff dob | address ,CUSTOMERS,PERSON,1040
+TI-1024,TI-1024-3,relate: name | address (ambiguous),WATCHLIST,PERSON,1041
+TI-1024,TI-1024-3,relate: name | address (ambiguous),WATCHLIST,PERSON,1042
+TI-1025,TI-1025-1,anchor,CUSTOMERS,PERSON,1043
+TI-1025,TI-1025-2,relate: name | diff dob | address ,CUSTOMERS,PERSON,1044
+TI-1025,TI-1025-1,resolve: name | dob | passport (to patrick),CUSTOMERS,PERSON,1045
+TI-1025,TI-1025-2,resolve: name | dob | passport (to patricia),CUSTOMERS,PERSON,1046
+TI-1027,TI-1027-1,anchor,CUSTOMERS,PERSON,1047
+TI-1027,TI-1027-1,resolve: name var | email,CUSTOMERS,PERSON,1048
+TI-1027,TI-1027-1,resolve: name var | email,CUSTOMERS,PERSON,1049
+TI-1028,TI-1028-1,anchor,CUSTOMERS,PERSON,1050
+TI-1028,TI-1028-1,resolve: name var | dob | passport,CUSTOMERS,PERSON,1051
+TI-1028,TI-1028-1,resolve: name var | passport,CUSTOMERS,PERSON,1052
+TI-1029,TI-1029-1,anchor,CUSTOMERS,PERSON,1053
+TI-1029,TI-1029-2,anchor,CUSTOMERS,PERSON,1054
+TI-1029,TI-1029-1,resolve: pname | address | passport,CUSTOMERS,PERSON,1055
+TI-1029,TI-1029-2,resolve: pname| dob | address | drlic,CUSTOMERS,PERSON,1056
+TI-1030,TI-1030-1,anchor,CUSTOMERS,PERSON,1057
+TI-1030,TI-1030-2,relate: name only | diff email domain,CUSTOMERS,PERSON,1058
+TI-1031,TI-1031-1,anchor,CUSTOMERS,PERSON,1059
+TI-1031,TI-1031-1,resolve: name | phone (initial),CUSTOMERS,PERSON,1060
+TI-1031,TI-1031-2,anchor,CUSTOMERS,PERSON,1061
+TI-1031,TI-1031-2,resolve: name | phone (no first name),CUSTOMERS,PERSON,1062
+TI-1032,TI-1032-1,anchor,CUSTOMERS,PERSON,1063
+TI-1032,TI-1032-1,resolve: name | dob (adds passport),CUSTOMERS,PERSON,1064
+TI-1032,TI-1032-1,resolve: name | passport (adds drlic),CUSTOMERS,PERSON,1065
+TI-1032,TI-1032-1,resolve: name | drlic (adds ssn),CUSTOMERS,PERSON,1066
+TI-1032,TI-1032-1,resolve: name | ssn (adds address),CUSTOMERS,PERSON,1067
+TI-1032,TI-1032-1,resolve: name | address ,CUSTOMERS,PERSON,1068
+TI-2003,TI-2003-1,anchor,CUSTOMERS,PERSON,1069
+TI-2003,TI-2003-1,resolve: name | gender | address | nationalID,CUSTOMERS,PERSON,1070
+TI-2003,TI-2003-2,anchor,CUSTOMERS,PERSON,1071
+TI-2003,TI-2003-2,resolve: name | dob |  gender | address | nationalID,CUSTOMERS,PERSON,1072
+TI-2003,TI-2003-3,anchor,CUSTOMERS,PERSON,1073
+TI-2003,TI-2003-3,resolve: name | dob | gender | address,CUSTOMERS,PERSON,1074
+TI-2003,TI-2003-4,anchor,CUSTOMERS,PERSON,1075
+TI-2003,TI-2003-4,resolve: name | dob | gender | address,CUSTOMERS,PERSON,1076
+TI-2003,TI-2003-5,anchor,CUSTOMERS,PERSON,1077
+TI-2003,TI-2003-5,resolve: name | dob | address,CUSTOMERS,PERSON,1078
+TI-2004,TI-2004-1,anchor,CUSTOMERS,PERSON,1079
+TI-2004,TI-2004-1,resolve: name | dob | last4ssn,CUSTOMERS,PERSON,1080
+TI-1034,TI-1034-1,anchor,CUSTOMERS,PERSON,1081
+TI-1034,TI-1034-1,resolve: name | dob | address |passport,CUSTOMERS,PERSON,1082
+TI-1034,TI-1034-2,anchor,CUSTOMERS,PERSON,1083
+TI-1034,TI-1034-2,resolve: name | dob | address |passport,CUSTOMERS,PERSON,1084
+TI-1034,TI-1034-3,anchor,CUSTOMERS,PERSON,1085
+TI-1034,TI-1034-3,resolve: name | dob | phone |email,CUSTOMERS,PERSON,1086
+TI-1035,TI-1035-1,anchor,CUSTOMERS,PERSON,1087
+TI-1035,TI-1035-1,resolve: name | dob | phone | email | gender diff,CUSTOMERS,PERSON,1088
+TI-1035,TI-1035-3,anchor,CUSTOMERS,PERSON,1089
+TI-1035,TI-1035-4,resolve: name | dob | address | passport / diff generation,CUSTOMERS,PERSON,1090
+TI-1035,TI-1035-5,anchor,CUSTOMERS,PERSON,1091
+TI-1035,TI-1035-5,resolve: name | dob | phone |email,CUSTOMERS,PERSON,1092
+TI-1036,TI-1036-1,anchor,CUSTOMERS,PERSON,1093
+TI-1036,TI-1036-1,resolve: name | dob | drlic ,CUSTOMERS,PERSON,1094
+TI-1036,TI-1036-3,anchor,CUSTOMERS,PERSON,1095
+TI-1036,TI-1036-3,resolve: name | dob | drlic | invalid gender,CUSTOMERS,PERSON,1096
+TI-1037,TI-1037-1,anchor,CUSTOMERS,PERSON,1097
+TI-1037,TI-1037-1,resolve: name | address | email ,CUSTOMERS,PERSON,1098
+TI-1037,TI-1037-3,anchor,CUSTOMERS,PERSON,1099
+TI-1037,TI-1037-3,resolve: name | address | email | invalid gender,CUSTOMERS,PERSON,1100
+TI-1038,TI-1038-1,anchor,CUSTOMERS,PERSON,1101
+TI-1038,TI-1038-1,resolve: name | email ,CUSTOMERS,PERSON,1102
+TI-1038,TI-1038-3,anchor,CUSTOMERS,PERSON,1103
+TI-1038,TI-1038-3,resolve: name | address | email | invalid  gender,CUSTOMERS,PERSON,1104
