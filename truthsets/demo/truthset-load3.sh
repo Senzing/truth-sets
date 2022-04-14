@@ -9,7 +9,7 @@ G2Loader.py \
 
 G2Snapshot.py \
     --output_file_root truthset-load3-snapshot \
-    --for_audit 
+    --for_audit -q
 
 G2Audit.py \
     --newer_csv_file truthset-load3-snapshot.csv \
