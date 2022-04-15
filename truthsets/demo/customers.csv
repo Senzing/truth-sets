@@ -96,4 +96,6 @@ CUSTOMERS,2032,PERSON,,,Kim,Dara,,,,,,,,,,,,PRIMARY,,Street 128 ,Phnom Penh,,,Ca
 CUSTOMERS,2041,ORGANIZATION,Müllenkranz,,,,,,,,,,,,,,,PRIMARY,,Hardenbergstraße 87,Rheinland-Pfalz,,66879,Germany,,,,,,
 CUSTOMERS,2042,ORGANIZATION,Mullenkrants,,,,,,,,,,,,,,,PRIMARY,,Hardenbergstrasse 87,,,66879,Germany,,,,,,
 CUSTOMERS,2051,PERSON,,Faisal Siddiqui,,,,,,,,,,,,,,HOME,,Jia Musa Shahdara Sheikhupura Road,Lahore,,,Pakistan,,+92 42-7925774,,,,
-CUSTOMERS,2052,PERSON,,فيصل صديقي,,,,,,,,,,,,,,PRIMARY,,Jia Musa Shahdara Sheikhupura Road,Lahore,,,Pakistan,,42-7925774,,,,
+CUSTOMERS,2063,PERSON,,Alexander Pavlovich Vasiliev,,,,,,,,,,,,,,,,,,,,,,481-285-6234,,,,
+CUSTOMERS,2142,ORGANIZATION,Universal Exports ,,,,,,,,,,,,,,,PRIMARY,"#01-11, HillV2, 4 Hillview Rise, 667979 singapore",,,,,,,,,,,
+CUSTOMERS,2152,ORGANIZATION,Universal Exports ,,,,,,,,,,,,,,,PRIMARY,"Mullanpara Road, Old Vythiri, Vythiri, Wayanad, 673576, India",,,,,,,,,,,
