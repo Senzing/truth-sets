@@ -2,16 +2,16 @@
     "SOURCE": "sz_snapshot",
     "PROCESS": {
         "STATUS": "Complete",
-        "START_TIME": "07/28/2025 23:09:14",
+        "START_TIME": "08/11/2025 06:28:32",
         "LAST_ENTITY_ID": 1000000,
-        "END_DATE": "2025-07-28 23:09:28"
+        "END_DATE": "2025-08-11 06:28:49"
     },
     "TOTALS": {
-        "ENTITY_COUNT": 86,
+        "ENTITY_COUNT": 87,
         "RECORD_COUNT": 159,
         "MATCH": {
-            "ENTITY_COUNT": 67,
-            "RECORD_COUNT": 73,
+            "ENTITY_COUNT": 66,
+            "RECORD_COUNT": 72,
             "PRINCIPLES": {
                 "120: SF1_PNAME_CSTAB||+NAME+DOB+EMAIL": {
                     "COUNT": 1,
@@ -19,210 +19,214 @@
                         1
                     ]
                 },
+                "160: CNAME_CFF_CEXCL||+NAME+DOB+PHONE": {
+                    "COUNT": 3,
+                    "SAMPLE": [
+                        1,
+                        3,
+                        16
+                    ]
+                },
                 "160: CNAME_CFF_CEXCL||+NAME+DOB+ADDRESS": {
                     "COUNT": 9,
                     "SAMPLE": [
                         1,
-                        6,
+                        3,
                         8,
-                        20,
-                        24,
-                        91,
-                        107,
-                        100,
-                        204
-                    ]
-                },
-                "108: SF1_SNAME_CFF_CSTAB||+NAME+DOB+PHONE+EMAIL": {
-                    "COUNT": 2,
-                    "SAMPLE": [
-                        1,
-                        138
-                    ]
-                },
-                "130: SF1_CNAME||+NAME+DRLIC": {
-                    "COUNT": 3,
-                    "SAMPLE": [
-                        5,
-                        66,
-                        167
-                    ]
-                },
-                "120: SF1_PNAME_CSTAB||+PNAME+DOB+SSN": {
-                    "COUNT": 1,
-                    "SAMPLE": [
-                        6
-                    ]
-                },
-                "160: CNAME_CFF_CEXCL||+NAME+DOB+PHONE": {
-                    "COUNT": 2,
-                    "SAMPLE": [
-                        8,
-                        18
+                        15,
+                        22,
+                        59,
+                        63,
+                        64,
+                        112
                     ]
                 },
                 "120: SF1_PNAME_CSTAB||+NAME+SSN": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        8,
-                        66
+                        3,
+                        51
+                    ]
+                },
+                "130: SF1_CNAME||+NAME+DRLIC": {
+                    "COUNT": 2,
+                    "SAMPLE": [
+                        6,
+                        92
+                    ]
+                },
+                "120: SF1_PNAME_CSTAB||+PNAME+DOB+SSN": {
+                    "COUNT": 1,
+                    "SAMPLE": [
+                        8
                     ]
                 },
                 "180: SNAME_SSTAB||+NAME+DOB": {
                     "COUNT": 4,
                     "SAMPLE": [
-                        14,
-                        66,
-                        86,
-                        88
+                        10,
+                        50,
+                        57,
+                        60
                     ]
                 },
-                "110: SF1_PNAME_CFF_CSTAB||+ADDRESS+SSN+EMAIL": {
+                "120: SF1_PNAME_CSTAB||+PNAME+DOB+EMAIL": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        17
+                        15
                     ]
                 },
                 "110: SF1_PNAME_CFF_CSTAB||+PNAME+DOB+ADDRESS+EMAIL": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        24
+                        15
+                    ]
+                },
+                "110: SF1_PNAME_CFF_CSTAB||+ADDRESS+SSN+EMAIL": {
+                    "COUNT": 1,
+                    "SAMPLE": [
+                        21
                     ]
                 },
                 "122: SF1_PNAME_CFF||+NAME+ADDRESS+PASSPORT": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        26,
-                        29
-                    ]
-                },
-                "120: SF1_PNAME_CSTAB||+NAME+DOB+PASSPORT": {
-                    "COUNT": 2,
-                    "SAMPLE": [
-                        39,
-                        121
-                    ]
-                },
-                "130: SF1_CNAME||+NAME+PASSPORT": {
-                    "COUNT": 3,
-                    "SAMPLE": [
-                        39,
-                        44,
-                        66
+                        17,
+                        28
                     ]
                 },
                 "130: SF1_CNAME||+NAME+EMAIL": {
                     "COUNT": 3,
                     "SAMPLE": [
-                        35,
-                        166,
-                        158
+                        33,
+                        87,
+                        90
                     ]
                 },
                 "120: SF1_PNAME_CSTAB||+PNAME+DOB+DRLIC": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        47,
-                        142
+                        39,
+                        82
+                    ]
+                },
+                "120: SF1_PNAME_CSTAB||+NAME+DOB+PASSPORT": {
+                    "COUNT": 2,
+                    "SAMPLE": [
+                        36,
+                        70
+                    ]
+                },
+                "130: SF1_CNAME||+NAME+PASSPORT": {
+                    "COUNT": 3,
+                    "SAMPLE": [
+                        36,
+                        40,
+                        50
                     ]
                 },
                 "162: CNAME_CFF||+NAME+PHONE": {
                     "COUNT": 5,
                     "SAMPLE": [
-                        54,
-                        63,
-                        182,
-                        196,
-                        293
-                    ]
-                },
-                "162: CNAME_CFF||+NAME+ADDRESS": {
-                    "COUNT": 10,
-                    "SAMPLE": [
-                        66,
-                        176,
-                        178,
-                        184,
-                        190,
-                        192,
-                        216,
-                        300,
-                        304,
-                        333
+                        45,
+                        47,
+                        98,
+                        104,
+                        136
                     ]
                 },
                 "131: CF1_PNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+NATIONAL_ID": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        86
+                        57
                     ]
                 },
                 "108: SF1_SNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+NATIONAL_ID": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        88
+                        60
                     ]
                 },
                 "141: MSTAB_CNAME||+NAME+DOB+SSN": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        106
+                        67
                     ]
                 },
                 "110: SF1_PNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+PASSPORT": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        116
+                        72
                     ]
                 },
                 "110: SF1_PNAME_CFF_CSTAB||+NAME+DOB+PHONE+EMAIL": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        119
+                        73
                     ]
                 },
                 "111: SF1_SNAME_CFF_CSTAB_DEXCL||+NAME+DOB+PHONE+EMAIL-GENDER": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        126
+                        75
+                    ]
+                },
+                "108: SF1_SNAME_CFF_CSTAB||+NAME+DOB+PHONE+EMAIL": {
+                    "COUNT": 1,
+                    "SAMPLE": [
+                        80
                     ]
                 },
                 "120: SF1_PNAME_CSTAB||+NAME+DOB+DRLIC": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        144
+                        83
                     ]
                 },
                 "122: SF1_PNAME_CFF||+NAME+ADDRESS+EMAIL": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        150,
-                        308
+                        86,
+                        145
+                    ]
+                },
+                "162: CNAME_CFF||+NAME+ADDRESS": {
+                    "COUNT": 9,
+                    "SAMPLE": [
+                        95,
+                        96,
+                        99,
+                        103,
+                        105,
+                        120,
+                        139,
+                        146,
+                        161
                     ]
                 },
                 "151: MFF_LNAME_CEXCL||+LIKELY_NAME+ADDRESS+PHONE": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        189
-                    ]
-                },
-                "162: CNAME_CFF||+NAME+EMPLOYER": {
-                    "COUNT": 2,
-                    "SAMPLE": [
-                        294,
-                        299
+                        101
                     ]
                 },
                 "122: SF1_PNAME_CFF||+PNAME+PHONE+EMAIL": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        295
+                        141
+                    ]
+                },
+                "162: CNAME_CFF||+NAME+EMPLOYER": {
+                    "COUNT": 2,
+                    "SAMPLE": [
+                        143,
+                        144
                     ]
                 },
                 "130: SF1_CNAME||+NAME+PHONE": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        303
+                        148
                     ]
                 }
             }
@@ -233,163 +237,168 @@
                 "162: CNAME_CFF||+NAME+ADDRESS (Ambiguous)": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        "23 333",
-                        "21 333"
+                        "25 161",
+                        "29 161"
                     ]
                 }
             }
         },
         "POSSIBLE_MATCH": {
-            "RELATION_COUNT": 13,
+            "RELATION_COUNT": 16,
             "PRINCIPLES": {
                 "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-DOB": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        "1 5",
-                        "21 23"
+                        "1 6",
+                        "25 29"
                     ]
                 },
                 "203: SNAME||+NAME": {
-                    "COUNT": 5,
+                    "COUNT": 8,
                     "SAMPLE": [
-                        "1 330",
-                        "5 330",
-                        "26 338",
-                        "29 338",
-                        "197 199"
+                        "1 160",
+                        "6 160",
+                        "17 154",
+                        "28 154",
+                        "50 51",
+                        "50 56",
+                        "51 56",
+                        "106 107"
                     ]
                 },
                 "185: CNAME_CSTAB||+NAME+DOB": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        "13 19",
-                        "13 328"
-                    ]
-                },
-                "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-GENERATION": {
-                    "COUNT": 1,
-                    "SAMPLE": [
-                        "25 332"
+                        "7 11",
+                        "11 156"
                     ]
                 },
                 "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-DOB-PASSPORT": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "26 29"
+                        "17 28"
+                    ]
+                },
+                "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-GENERATION": {
+                    "COUNT": 1,
+                    "SAMPLE": [
+                        "24 166"
                     ]
                 },
                 "206: CNAME||+NAME": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "51 56"
+                        "43 44"
                     ]
                 },
                 "185: CNAME_CSTAB||+NAME+DOB-GENERATION": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "136 137"
+                        "78 79"
                     ]
                 }
             }
         },
         "POSSIBLE_RELATION": {
-            "RELATION_COUNT": 37,
+            "RELATION_COUNT": 39,
             "PRINCIPLES": {
                 "199: CFF_SURNAME||+SURNAME+ADDRESS": {
                     "COUNT": 4,
                     "SAMPLE": [
-                        "1 338",
-                        "26 333",
-                        "29 333",
-                        "44 47"
+                        "1 154",
+                        "17 161",
+                        "39 40",
+                        "28 161"
                     ]
                 },
                 "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB-SSN": {
                     "COUNT": 3,
                     "SAMPLE": [
-                        "6 8",
-                        "6 17",
-                        "8 17"
-                    ]
-                },
-                "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB": {
-                    "COUNT": 1,
-                    "SAMPLE": [
-                        "6 16"
+                        "3 8",
+                        "3 21",
+                        "8 21"
                     ]
                 },
                 "195: SF1||+PNAME+ADDRESS+EMAIL-DOB": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "8 16"
+                        "3 20"
                     ]
                 },
-                "195: SF1||+SURNAME+DOB+ADDRESS+EMAIL": {
+                "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "16 17"
+                        "8 20"
                     ]
                 },
-                "199: CFF_SURNAME||+SURNAME+DOB+ADDRESS": {
-                    "COUNT": 2,
+                "202: SFF||+ADDRESS": {
+                    "COUNT": 8,
                     "SAMPLE": [
-                        "23 26",
-                        "21 29"
+                        "15 51",
+                        "15 56",
+                        "114 122",
+                        "114 127",
+                        "119 125",
+                        "118 121",
+                        "120 124",
+                        "122 127"
                     ]
                 },
                 "199: CFF_SURNAME||+SURNAME+ADDRESS-DOB": {
                     "COUNT": 3,
                     "SAMPLE": [
-                        "23 29",
-                        "21 26",
-                        "203 204"
+                        "17 25",
+                        "28 29",
+                        "111 112"
+                    ]
+                },
+                "199: CFF_SURNAME||+SURNAME+DOB+ADDRESS": {
+                    "COUNT": 2,
+                    "SAMPLE": [
+                        "17 29",
+                        "25 28"
+                    ]
+                },
+                "195: SF1||+SURNAME+DOB+ADDRESS+EMAIL": {
+                    "COUNT": 1,
+                    "SAMPLE": [
+                        "20 21"
                     ]
                 },
                 "202: SFF||+PNAME+PHONE-DOB": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "119 138"
+                        "73 80"
                     ]
                 },
                 "202: SFF||+EMPLOYER": {
                     "COUNT": 12,
                     "SAMPLE": [
-                        "182 293",
-                        "294 299",
-                        "295 300",
-                        "295 303",
-                        "295 304",
-                        "295 308",
-                        "300 303",
-                        "300 304",
-                        "300 308",
-                        "303 304",
-                        "303 308",
-                        "304 308"
+                        "98 136",
+                        "139 141",
+                        "139 145",
+                        "139 146",
+                        "139 148",
+                        "141 145",
+                        "141 146",
+                        "141 148",
+                        "143 144",
+                        "145 146",
+                        "145 148",
+                        "146 148"
                     ]
                 },
                 "199: CFF_SURNAME||+SURNAME+PHONE": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "193 194"
-                    ]
-                },
-                "202: SFF||+ADDRESS": {
-                    "COUNT": 6,
-                    "SAMPLE": [
-                        "207 225",
-                        "207 235",
-                        "210 220",
-                        "215 228",
-                        "216 229",
-                        "225 235"
+                        "108 109"
                     ]
                 },
                 "204: CFF||+ADDRESS": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        "216 231",
-                        "229 231"
+                        "120 123",
+                        "123 124"
                     ]
                 }
             }
@@ -400,55 +409,50 @@
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 60%|MAX:)": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "86 176"
+                        "57 95"
                     ]
                 },
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 40%|MAX:)": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "88 176"
+                        "60 95"
                     ]
                 },
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "182 184"
+                        "98 99"
                     ]
                 },
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
                     "COUNT": 1,
                     "SAMPLE": [
-                        "184 293"
+                        "99 136"
                     ]
                 },
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:GLOBAL PARENT|MAX:)": {
-                    "COUNT": 2,
+                    "COUNT": 3,
                     "SAMPLE": [
-                        "189 192",
-                        "190 192"
+                        "101 105",
+                        "103 105",
+                        "104 105"
                     ]
                 },
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRINCIPAL)": {
                     "COUNT": 5,
                     "SAMPLE": [
-                        "189 295",
-                        "189 300",
-                        "189 303",
-                        "189 304",
-                        "189 308"
-                    ]
-                },
-                "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:GLOBAL PARENT)": {
-                    "COUNT": 1,
-                    "SAMPLE": [
-                        "192 196"
+                        "101 139",
+                        "101 141",
+                        "101 145",
+                        "101 146",
+                        "101 148"
                     ]
                 },
                 "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
                     "COUNT": 2,
                     "SAMPLE": [
-                        "192 294",
-                        "192 299"
+                        "105 143",
+                        "105 144"
                     ]
                 }
             }
@@ -457,148 +461,154 @@
     "DATA_SOURCES": {
         "CUSTOMERS": {
             "MATCH": {
-                "ENTITY_COUNT": 36,
-                "RECORD_COUNT": 84,
+                "ENTITY_COUNT": 37,
+                "RECORD_COUNT": 83,
                 "PRINCIPLES": {
                     "multiple||multiple": {
                         "COUNT": 4,
                         "SAMPLE": [
                             1,
-                            8,
-                            39,
-                            66
+                            3,
+                            36,
+                            50
                         ]
                     },
                     "160: CNAME_CFF_CEXCL||+NAME+DOB+ADDRESS": {
                         "COUNT": 7,
                         "SAMPLE": [
-                            6,
-                            20,
-                            24,
-                            91,
-                            107,
-                            100,
-                            204
+                            8,
+                            15,
+                            22,
+                            59,
+                            63,
+                            64,
+                            112
                         ]
                     },
                     "180: SNAME_SSTAB||+NAME+DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            14
+                            10
                         ]
                     },
                     "160: CNAME_CFF_CEXCL||+NAME+DOB+PHONE": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            18
+                            16
                         ]
                     },
                     "122: SF1_PNAME_CFF||+NAME+ADDRESS+PASSPORT": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            26,
-                            29
+                            17,
+                            28
                         ]
                     },
                     "130: SF1_CNAME||+NAME+EMAIL": {
                         "COUNT": 3,
                         "SAMPLE": [
-                            35,
-                            166,
-                            158
+                            33,
+                            87,
+                            90
                         ]
                     },
                     "120: SF1_PNAME_CSTAB||+PNAME+DOB+DRLIC": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            47,
-                            142
+                            39,
+                            82
                         ]
                     },
                     "130: SF1_CNAME||+NAME+PASSPORT": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            44
+                            40
                         ]
                     },
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            54,
-                            63
+                            45,
+                            47
+                        ]
+                    },
+                    "120: SF1_PNAME_CSTAB||+NAME+SSN": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            51
                         ]
                     },
                     "131: CF1_PNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+NATIONAL_ID": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            86
+                            57
                         ]
                     },
                     "108: SF1_SNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+NATIONAL_ID": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            88
+                            60
                         ]
                     },
                     "141: MSTAB_CNAME||+NAME+DOB+SSN": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            106
-                        ]
-                    },
-                    "110: SF1_PNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+PASSPORT": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            116
-                        ]
-                    },
-                    "110: SF1_PNAME_CFF_CSTAB||+NAME+DOB+PHONE+EMAIL": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            119
+                            67
                         ]
                     },
                     "120: SF1_PNAME_CSTAB||+NAME+DOB+PASSPORT": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            121
+                            70
+                        ]
+                    },
+                    "110: SF1_PNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+PASSPORT": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            72
+                        ]
+                    },
+                    "110: SF1_PNAME_CFF_CSTAB||+NAME+DOB+PHONE+EMAIL": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            73
                         ]
                     },
                     "111: SF1_SNAME_CFF_CSTAB_DEXCL||+NAME+DOB+PHONE+EMAIL-GENDER": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            126
+                            75
                         ]
                     },
                     "108: SF1_SNAME_CFF_CSTAB||+NAME+DOB+PHONE+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            138
+                            80
                         ]
                     },
                     "120: SF1_PNAME_CSTAB||+NAME+DOB+DRLIC": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            144
+                            83
                         ]
                     },
                     "122: SF1_PNAME_CFF||+NAME+ADDRESS+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            150
+                            86
                         ]
                     },
                     "130: SF1_CNAME||+NAME+DRLIC": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            167
+                            92
                         ]
                     },
                     "162: CNAME_CFF||+NAME+ADDRESS": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            178,
-                            216
+                            96,
+                            120
                         ]
                     }
                 }
@@ -607,125 +617,130 @@
                 "RELATION_COUNT": 0
             },
             "POSSIBLE_MATCH": {
-                "RELATION_COUNT": 7,
+                "RELATION_COUNT": 10,
                 "PRINCIPLES": {
                     "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-DOB": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "1 5",
-                            "21 23"
+                            "1 6",
+                            "25 29"
                         ]
                     },
                     "185: CNAME_CSTAB||+NAME+DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "13 19"
+                            "7 11"
                         ]
                     },
                     "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-DOB-PASSPORT": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "26 29"
+                            "17 28"
                         ]
                     },
                     "206: CNAME||+NAME": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "51 56"
+                            "43 44"
+                        ]
+                    },
+                    "203: SNAME||+NAME": {
+                        "COUNT": 4,
+                        "SAMPLE": [
+                            "50 51",
+                            "50 56",
+                            "51 56",
+                            "106 107"
                         ]
                     },
                     "185: CNAME_CSTAB||+NAME+DOB-GENERATION": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "136 137"
-                        ]
-                    },
-                    "203: SNAME||+NAME": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            "197 199"
+                            "78 79"
                         ]
                     }
                 }
             },
             "POSSIBLE_RELATION": {
-                "RELATION_COUNT": 22,
+                "RELATION_COUNT": 24,
                 "PRINCIPLES": {
                     "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB-SSN": {
                         "COUNT": 3,
                         "SAMPLE": [
-                            "6 8",
-                            "6 17",
-                            "8 17"
-                        ]
-                    },
-                    "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            "6 16"
+                            "3 8",
+                            "3 21",
+                            "8 21"
                         ]
                     },
                     "195: SF1||+PNAME+ADDRESS+EMAIL-DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "8 16"
+                            "3 20"
                         ]
                     },
-                    "195: SF1||+SURNAME+DOB+ADDRESS+EMAIL": {
+                    "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "16 17"
+                            "8 20"
                         ]
                     },
-                    "199: CFF_SURNAME||+SURNAME+DOB+ADDRESS": {
-                        "COUNT": 2,
+                    "202: SFF||+ADDRESS": {
+                        "COUNT": 8,
                         "SAMPLE": [
-                            "23 26",
-                            "21 29"
+                            "15 51",
+                            "15 56",
+                            "114 122",
+                            "114 127",
+                            "119 125",
+                            "118 121",
+                            "120 124",
+                            "122 127"
                         ]
                     },
                     "199: CFF_SURNAME||+SURNAME+ADDRESS-DOB": {
                         "COUNT": 3,
                         "SAMPLE": [
-                            "23 29",
-                            "21 26",
-                            "203 204"
+                            "17 25",
+                            "28 29",
+                            "111 112"
+                        ]
+                    },
+                    "199: CFF_SURNAME||+SURNAME+DOB+ADDRESS": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "17 29",
+                            "25 28"
+                        ]
+                    },
+                    "195: SF1||+SURNAME+DOB+ADDRESS+EMAIL": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "20 21"
                         ]
                     },
                     "199: CFF_SURNAME||+SURNAME+ADDRESS": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "44 47"
+                            "39 40"
                         ]
                     },
                     "202: SFF||+PNAME+PHONE-DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "119 138"
+                            "73 80"
                         ]
                     },
                     "199: CFF_SURNAME||+SURNAME+PHONE": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "193 194"
-                        ]
-                    },
-                    "202: SFF||+ADDRESS": {
-                        "COUNT": 6,
-                        "SAMPLE": [
-                            "207 225",
-                            "207 235",
-                            "210 220",
-                            "215 228",
-                            "216 229",
-                            "225 235"
+                            "108 109"
                         ]
                     },
                     "204: CFF||+ADDRESS": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "216 231",
-                            "229 231"
+                            "120 123",
+                            "123 124"
                         ]
                     }
                 }
@@ -736,54 +751,50 @@
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 60%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "86 176"
+                            "57 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 40%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "88 176"
+                            "60 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 184"
+                            "98 99"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:GLOBAL PARENT|MAX:)": {
-                        "COUNT": 2,
+                        "COUNT": 3,
                         "SAMPLE": [
-                            "189 192",
-                            "190 192"
-                        ]
-                    },
-                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:GLOBAL PARENT)": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            "192 196"
+                            "101 105",
+                            "103 105",
+                            "104 105"
                         ]
                     }
                 }
             },
-            "ENTITY_COUNT": 72,
+            "ENTITY_COUNT": 74,
             "RECORD_COUNT": 120
         },
         "WATCHLIST": {
             "MATCH": {
-                "ENTITY_COUNT": 2,
-                "RECORD_COUNT": 4,
+                "ENTITY_COUNT": 3,
+                "RECORD_COUNT": 6,
                 "PRINCIPLES": {
                     "multiple||multiple": {
-                        "COUNT": 1,
+                        "COUNT": 2,
                         "SAMPLE": [
-                            6
+                            8,
+                            15
                         ]
                     },
                     "162: CNAME_CFF||+NAME+ADDRESS": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            333
+                            161
                         ]
                     }
                 }
@@ -797,7 +808,7 @@
                     "203: SNAME||+NAME": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "5 330"
+                            "6 160"
                         ]
                     }
                 }
@@ -808,14 +819,14 @@
                     "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB-SSN": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "6 17"
+                            "8 21"
                         ]
                     },
                     "202: SFF||+EMPLOYER": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "182 293",
-                            "294 299"
+                            "98 136",
+                            "143 144"
                         ]
                     }
                 }
@@ -823,7 +834,7 @@
             "DISCLOSED_RELATION": {
                 "RELATION_COUNT": 0
             },
-            "ENTITY_COUNT": 15,
+            "ENTITY_COUNT": 14,
             "RECORD_COUNT": 17
         },
         "REFERENCE": {
@@ -831,29 +842,29 @@
                 "ENTITY_COUNT": 5,
                 "RECORD_COUNT": 10,
                 "PRINCIPLES": {
-                    "122: SF1_PNAME_CFF||+PNAME+PHONE+EMAIL": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            295
-                        ]
-                    },
                     "162: CNAME_CFF||+NAME+ADDRESS": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            300,
-                            304
+                            139,
+                            146
                         ]
                     },
-                    "130: SF1_CNAME||+NAME+PHONE": {
+                    "122: SF1_PNAME_CFF||+PNAME+PHONE+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            303
+                            141
                         ]
                     },
                     "122: SF1_PNAME_CFF||+NAME+ADDRESS+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            308
+                            145
+                        ]
+                    },
+                    "130: SF1_CNAME||+NAME+PHONE": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            148
                         ]
                     }
                 }
@@ -870,18 +881,18 @@
                     "202: SFF||+EMPLOYER": {
                         "COUNT": 12,
                         "SAMPLE": [
-                            "182 293",
-                            "294 299",
-                            "295 300",
-                            "295 303",
-                            "295 304",
-                            "295 308",
-                            "300 303",
-                            "300 304",
-                            "300 308",
-                            "303 304",
-                            "303 308",
-                            "304 308"
+                            "98 136",
+                            "139 141",
+                            "139 145",
+                            "139 146",
+                            "139 148",
+                            "141 145",
+                            "141 146",
+                            "141 148",
+                            "143 144",
+                            "145 146",
+                            "145 148",
+                            "146 148"
                         ]
                     }
                 }
@@ -892,55 +903,50 @@
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 60%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "86 176"
+                            "57 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 40%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "88 176"
+                            "60 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 184"
+                            "98 99"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "184 293"
+                            "99 136"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:GLOBAL PARENT|MAX:)": {
-                        "COUNT": 2,
+                        "COUNT": 3,
                         "SAMPLE": [
-                            "189 192",
-                            "190 192"
+                            "101 105",
+                            "103 105",
+                            "104 105"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRINCIPAL)": {
                         "COUNT": 5,
                         "SAMPLE": [
-                            "189 295",
-                            "189 300",
-                            "189 303",
-                            "189 304",
-                            "189 308"
-                        ]
-                    },
-                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:GLOBAL PARENT)": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            "192 196"
+                            "101 139",
+                            "101 141",
+                            "101 145",
+                            "101 146",
+                            "101 148"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "192 294",
-                            "192 299"
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -958,37 +964,32 @@
                     "130: SF1_CNAME||+NAME+DRLIC": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            5
+                            6
                         ]
                     },
                     "multiple||multiple": {
-                        "COUNT": 1,
+                        "COUNT": 2,
                         "SAMPLE": [
-                            6
+                            8,
+                            15
                         ]
                     },
                     "180: SNAME_SSTAB||+NAME+DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            14
+                            10
                         ]
                     },
                     "110: SF1_PNAME_CFF_CSTAB||+ADDRESS+SSN+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            17
-                        ]
-                    },
-                    "110: SF1_PNAME_CFF_CSTAB||+PNAME+DOB+ADDRESS+EMAIL": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            24
+                            21
                         ]
                     },
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            182
+                            98
                         ]
                     }
                 }
@@ -999,8 +1000,8 @@
                     "162: CNAME_CFF||+NAME+ADDRESS (Ambiguous)": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "23 333",
-                            "21 333"
+                            "25 161",
+                            "29 161"
                         ]
                     }
                 }
@@ -1011,78 +1012,99 @@
                     "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "1 5"
+                            "1 6"
                         ]
                     },
                     "203: SNAME||+NAME": {
                         "COUNT": 4,
                         "SAMPLE": [
-                            "1 330",
-                            "5 330",
-                            "26 338",
-                            "29 338"
+                            "1 160",
+                            "6 160",
+                            "17 154",
+                            "28 154"
                         ]
                     },
                     "185: CNAME_CSTAB||+NAME+DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "13 328"
+                            "11 156"
                         ]
                     },
                     "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-GENERATION": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "25 332"
+                            "24 166"
                         ]
                     }
                 }
             },
             "POSSIBLE_RELATION": {
-                "RELATION_COUNT": 7,
+                "RELATION_COUNT": 12,
                 "PRINCIPLES": {
                     "199: CFF_SURNAME||+SURNAME+ADDRESS": {
                         "COUNT": 3,
                         "SAMPLE": [
-                            "1 338",
-                            "26 333",
-                            "29 333"
+                            "1 154",
+                            "17 161",
+                            "28 161"
                         ]
                     },
                     "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB-SSN": {
+                        "COUNT": 4,
+                        "SAMPLE": [
+                            "3 8",
+                            "3 21",
+                            "8 21",
+                            "8 21"
+                        ]
+                    },
+                    "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "8 20"
+                        ]
+                    },
+                    "202: SFF||+ADDRESS": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "6 17",
-                            "8 17"
+                            "15 51",
+                            "15 56"
                         ]
                     },
                     "195: SF1||+SURNAME+DOB+ADDRESS+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "16 17"
+                            "20 21"
                         ]
                     },
                     "202: SFF||+EMPLOYER": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 293"
+                            "98 136"
                         ]
                     }
                 }
             },
             "DISCLOSED_RELATION": {
-                "RELATION_COUNT": 3,
+                "RELATION_COUNT": 4,
                 "PRINCIPLES": {
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "98 99"
+                        ]
+                    },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "184 293"
+                            "99 136"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "192 294",
-                            "192 299"
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -1091,72 +1113,152 @@
         "WATCHLIST||CUSTOMERS": {
             "MATCH": {
                 "ENTITY_COUNT": 6,
-                "RECORD_COUNT": 7,
+                "RECORD_COUNT": 8,
                 "PRINCIPLES": {
                     "130: SF1_CNAME||+NAME+DRLIC": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            5
+                            6
                         ]
                     },
                     "160: CNAME_CFF_CEXCL||+NAME+DOB+ADDRESS": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            6,
-                            24
+                            8,
+                            15
                         ]
                     },
                     "180: SNAME_SSTAB||+NAME+DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            14
+                            10
                         ]
                     },
                     "110: SF1_PNAME_CFF_CSTAB||+ADDRESS+SSN+EMAIL": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            17
+                            21
                         ]
                     },
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            182
+                            98
                         ]
                     }
                 }
             },
             "AMBIGUOUS_MATCH": {
-                "RELATION_COUNT": 0
-            },
-            "POSSIBLE_MATCH": {
-                "RELATION_COUNT": 0
-            },
-            "POSSIBLE_RELATION": {
-                "RELATION_COUNT": 3,
+                "RELATION_COUNT": 2,
                 "PRINCIPLES": {
-                    "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB-SSN": {
+                    "162: CNAME_CFF||+NAME+ADDRESS (Ambiguous)": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "6 8",
-                            "6 17"
+                            "25 161",
+                            "29 161"
+                        ]
+                    }
+                }
+            },
+            "POSSIBLE_MATCH": {
+                "RELATION_COUNT": 7,
+                "PRINCIPLES": {
+                    "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-DOB": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "1 6"
+                        ]
+                    },
+                    "203: SNAME||+NAME": {
+                        "COUNT": 4,
+                        "SAMPLE": [
+                            "1 160",
+                            "6 160",
+                            "17 154",
+                            "28 154"
+                        ]
+                    },
+                    "185: CNAME_CSTAB||+NAME+DOB": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "11 156"
+                        ]
+                    },
+                    "164: CNAME_CFF_DEXCL||+NAME+ADDRESS-GENERATION": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "24 166"
+                        ]
+                    }
+                }
+            },
+            "POSSIBLE_RELATION": {
+                "RELATION_COUNT": 12,
+                "PRINCIPLES": {
+                    "199: CFF_SURNAME||+SURNAME+ADDRESS": {
+                        "COUNT": 3,
+                        "SAMPLE": [
+                            "1 154",
+                            "17 161",
+                            "28 161"
+                        ]
+                    },
+                    "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB-SSN": {
+                        "COUNT": 4,
+                        "SAMPLE": [
+                            "3 8",
+                            "3 21",
+                            "8 21",
+                            "8 21"
                         ]
                     },
                     "195: SF1||+SURNAME+ADDRESS+EMAIL-DOB": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "6 16"
+                            "8 20"
+                        ]
+                    },
+                    "202: SFF||+ADDRESS": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "15 51",
+                            "15 56"
+                        ]
+                    },
+                    "195: SF1||+SURNAME+DOB+ADDRESS+EMAIL": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "20 21"
+                        ]
+                    },
+                    "202: SFF||+EMPLOYER": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "98 136"
                         ]
                     }
                 }
             },
             "DISCLOSED_RELATION": {
-                "RELATION_COUNT": 1,
+                "RELATION_COUNT": 4,
                 "PRINCIPLES": {
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 184"
+                            "98 99"
+                        ]
+                    },
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "99 136"
+                        ]
+                    },
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -1170,30 +1272,30 @@
                     "180: SNAME_SSTAB||+NAME+DOB": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            86,
-                            88
+                            57,
+                            60
                         ]
                     },
                     "162: CNAME_CFF||+NAME+ADDRESS": {
                         "COUNT": 4,
                         "SAMPLE": [
-                            176,
-                            184,
-                            190,
-                            192
+                            95,
+                            99,
+                            103,
+                            105
                         ]
                     },
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            182,
-                            196
+                            98,
+                            104
                         ]
                     },
                     "151: MFF_LNAME_CEXCL||+LIKELY_NAME+ADDRESS+PHONE": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            189
+                            101
                         ]
                     }
                 }
@@ -1210,66 +1312,67 @@
                     "202: SFF||+EMPLOYER": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 293"
+                            "98 136"
                         ]
                     }
                 }
             },
             "DISCLOSED_RELATION": {
-                "RELATION_COUNT": 14,
+                "RELATION_COUNT": 20,
                 "PRINCIPLES": {
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 60%|MAX:)": {
-                        "COUNT": 1,
+                        "COUNT": 2,
                         "SAMPLE": [
-                            "86 176"
+                            "57 95",
+                            "57 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 40%|MAX:)": {
-                        "COUNT": 1,
+                        "COUNT": 2,
                         "SAMPLE": [
-                            "88 176"
+                            "60 95",
+                            "60 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
-                        "COUNT": 1,
+                        "COUNT": 2,
                         "SAMPLE": [
-                            "182 184"
+                            "98 99",
+                            "98 99"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "184 293"
+                            "99 136"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:GLOBAL PARENT|MAX:)": {
-                        "COUNT": 2,
+                        "COUNT": 6,
                         "SAMPLE": [
-                            "189 192",
-                            "190 192"
+                            "101 105",
+                            "101 105",
+                            "103 105",
+                            "103 105",
+                            "104 105",
+                            "104 105"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRINCIPAL)": {
                         "COUNT": 5,
                         "SAMPLE": [
-                            "189 295",
-                            "189 300",
-                            "189 303",
-                            "189 304",
-                            "189 308"
-                        ]
-                    },
-                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:GLOBAL PARENT)": {
-                        "COUNT": 1,
-                        "SAMPLE": [
-                            "192 196"
+                            "101 139",
+                            "101 141",
+                            "101 145",
+                            "101 146",
+                            "101 148"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "192 294",
-                            "192 299"
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -1283,35 +1386,35 @@
                     "131: CF1_PNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+NATIONAL_ID": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            86
+                            57
                         ]
                     },
                     "108: SF1_SNAME_CFF_CSTAB||+NAME+DOB+ADDRESS+NATIONAL_ID": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            88
+                            60
                         ]
                     },
                     "162: CNAME_CFF||+NAME+ADDRESS": {
                         "COUNT": 4,
                         "SAMPLE": [
-                            176,
-                            184,
-                            190,
-                            192
+                            95,
+                            99,
+                            103,
+                            105
                         ]
                     },
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            182,
-                            196
+                            98,
+                            104
                         ]
                     },
                     "151: MFF_LNAME_CEXCL||+LIKELY_NAME+ADDRESS+PHONE": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            189
+                            101
                         ]
                     }
                 }
@@ -1323,40 +1426,72 @@
                 "RELATION_COUNT": 0
             },
             "POSSIBLE_RELATION": {
-                "RELATION_COUNT": 0
-            },
-            "DISCLOSED_RELATION": {
-                "RELATION_COUNT": 6,
+                "RELATION_COUNT": 1,
                 "PRINCIPLES": {
-                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 60%|MAX:)": {
+                    "202: SFF||+EMPLOYER": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "86 176"
+                            "98 136"
+                        ]
+                    }
+                }
+            },
+            "DISCLOSED_RELATION": {
+                "RELATION_COUNT": 20,
+                "PRINCIPLES": {
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 60%|MAX:)": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "57 95",
+                            "57 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 40%|MAX:)": {
-                        "COUNT": 1,
+                        "COUNT": 2,
                         "SAMPLE": [
-                            "88 176"
+                            "60 95",
+                            "60 95"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "98 99",
+                            "98 99"
+                        ]
+                    },
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 184"
+                            "99 136"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:GLOBAL PARENT|MAX:)": {
-                        "COUNT": 2,
+                        "COUNT": 6,
                         "SAMPLE": [
-                            "189 192",
-                            "190 192"
+                            "101 105",
+                            "101 105",
+                            "103 105",
+                            "103 105",
+                            "104 105",
+                            "104 105"
                         ]
                     },
-                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:GLOBAL PARENT)": {
-                        "COUNT": 1,
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRINCIPAL)": {
+                        "COUNT": 5,
                         "SAMPLE": [
-                            "192 196"
+                            "101 139",
+                            "101 141",
+                            "101 145",
+                            "101 146",
+                            "101 148"
+                        ]
+                    },
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -1370,15 +1505,15 @@
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            182,
-                            293
+                            98,
+                            136
                         ]
                     },
                     "162: CNAME_CFF||+NAME+EMPLOYER": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            294,
-                            299
+                            143,
+                            144
                         ]
                     }
                 }
@@ -1390,31 +1525,39 @@
                 "RELATION_COUNT": 0
             },
             "POSSIBLE_RELATION": {
-                "RELATION_COUNT": 2,
+                "RELATION_COUNT": 4,
                 "PRINCIPLES": {
                     "202: SFF||+EMPLOYER": {
-                        "COUNT": 2,
+                        "COUNT": 4,
                         "SAMPLE": [
-                            "182 293",
-                            "294 299"
+                            "98 136",
+                            "98 136",
+                            "143 144",
+                            "143 144"
                         ]
                     }
                 }
             },
             "DISCLOSED_RELATION": {
-                "RELATION_COUNT": 3,
+                "RELATION_COUNT": 4,
                 "PRINCIPLES": {
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "98 99"
+                        ]
+                    },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "184 293"
+                            "99 136"
                         ]
                     },
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            "192 294",
-                            "192 299"
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -1428,15 +1571,15 @@
                     "162: CNAME_CFF||+NAME+PHONE": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            182,
-                            293
+                            98,
+                            136
                         ]
                     },
                     "162: CNAME_CFF||+NAME+EMPLOYER": {
                         "COUNT": 2,
                         "SAMPLE": [
-                            294,
-                            299
+                            143,
+                            144
                         ]
                     }
                 }
@@ -1448,24 +1591,39 @@
                 "RELATION_COUNT": 0
             },
             "POSSIBLE_RELATION": {
-                "RELATION_COUNT": 2,
+                "RELATION_COUNT": 4,
                 "PRINCIPLES": {
                     "202: SFF||+EMPLOYER": {
-                        "COUNT": 2,
+                        "COUNT": 4,
                         "SAMPLE": [
-                            "182 293",
-                            "294 299"
+                            "98 136",
+                            "98 136",
+                            "143 144",
+                            "143 144"
                         ]
                     }
                 }
             },
             "DISCLOSED_RELATION": {
-                "RELATION_COUNT": 1,
+                "RELATION_COUNT": 4,
                 "PRINCIPLES": {
                     "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:OWNS 100%|MAX:)": {
                         "COUNT": 1,
                         "SAMPLE": [
-                            "182 184"
+                            "98 99"
+                        ]
+                    },
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:PRESIDENT)": {
+                        "COUNT": 1,
+                        "SAMPLE": [
+                            "99 136"
+                        ]
+                    },
+                    "DISCLOSURE||+REL_POINTER(DOMAIN:|MIN:|MAX:OWNS 50%)": {
+                        "COUNT": 2,
+                        "SAMPLE": [
+                            "105 143",
+                            "105 144"
                         ]
                     }
                 }
@@ -1474,133 +1632,134 @@
     },
     "ENTITY_SOURCES": {
         "CUSTOMERS": {
-            "ENTITY_COUNT": 58,
+            "ENTITY_COUNT": 60,
             "SAMPLE": [
                 1,
-                8,
-                13,
-                18,
+                3,
+                7,
+                11,
                 16,
-                19,
+                17,
                 20,
-                23,
+                22,
+                24,
+                33,
                 25,
-                21,
-                26,
                 29,
                 39,
-                35,
-                47,
+                28,
+                36,
+                40,
+                45,
+                43,
                 44,
-                51,
-                54,
+                47,
                 56,
-                66,
+                50,
+                51,
+                59,
                 63,
-                91,
-                107,
-                100,
+                64,
+                67,
+                70,
+                72,
+                73,
+                75,
+                78,
+                79,
+                80,
+                82,
+                83,
+                86,
+                87,
+                90,
+                92,
+                96,
                 106,
+                107,
+                108,
+                111,
+                109,
+                112,
+                114,
+                115,
                 116,
+                117,
                 119,
+                118,
+                120,
+                123,
                 121,
-                126,
-                136,
-                137,
-                138,
-                142,
-                144,
-                166,
-                150,
-                158,
-                167,
-                178,
-                193,
-                194,
-                197,
-                199,
-                203,
-                204,
-                207,
-                211,
-                208,
-                210,
-                214,
-                215,
-                216,
-                220,
-                225,
-                228,
-                231,
-                229,
-                235
+                122,
+                124,
+                125,
+                127
             ]
         },
         "CUSTOMERS||WATCHLIST": {
             "ENTITY_COUNT": 5,
             "SAMPLE": [
-                5,
                 6,
-                14,
-                17,
-                24
+                8,
+                10,
+                15,
+                21
             ]
         },
         "CUSTOMERS||REFERENCE": {
             "ENTITY_COUNT": 8,
             "SAMPLE": [
-                86,
-                88,
-                176,
-                184,
-                189,
-                190,
-                192,
-                196
+                57,
+                60,
+                95,
+                99,
+                101,
+                103,
+                104,
+                105
             ]
         },
         "CUSTOMERS||REFERENCE||WATCHLIST": {
             "ENTITY_COUNT": 1,
             "SAMPLE": [
-                182
+                98
             ]
         },
         "REFERENCE||WATCHLIST": {
             "ENTITY_COUNT": 3,
             "SAMPLE": [
-                293,
-                294,
-                299
+                136,
+                143,
+                144
             ]
         },
         "REFERENCE": {
             "ENTITY_COUNT": 5,
             "SAMPLE": [
-                295,
-                300,
-                303,
-                304,
-                308
+                139,
+                141,
+                145,
+                146,
+                148
             ]
         },
         "WATCHLIST": {
-            "ENTITY_COUNT": 6,
+            "ENTITY_COUNT": 5,
             "SAMPLE": [
-                328,
-                329,
-                333,
-                330,
-                332,
-                338
+                154,
+                156,
+                160,
+                161,
+                166
             ]
         }
     },
     "ENTITY_SIZES": {
         "4": {
-            "COUNT": 3,
+            "COUNT": 2,
             "SAMPLE": [
                 {
-                    "8": {
+                    "3": {
                         "ADDRESS": 1,
                         "DOB": 1,
                         "EMAIL": 1,
@@ -1619,23 +1778,14 @@
                         "PHONE": 2,
                         "RECORD_TYPE": 1
                     }
-                },
-                {
-                    "24": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "EMAIL": 1,
-                        "NAME": 2,
-                        "RECORD_TYPE": 1
-                    }
                 }
             ]
         },
         "2": {
-            "COUNT": 43,
+            "COUNT": 44,
             "SAMPLE": [
                 {
-                    "17": {
+                    "21": {
                         "ADDRESS": 1,
                         "DOB": 1,
                         "EMAIL": 1,
@@ -1645,14 +1795,32 @@
                     }
                 },
                 {
-                    "63": {
+                    "47": {
                         "NAME": 1,
                         "PHONE": 2,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "107": {
+                    "59": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "GENDER": 1,
+                        "NAME": 2,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "63": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "GENDER": 1,
+                        "NAME": 2,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "64": {
                         "ADDRESS": 1,
                         "DOB": 1,
                         "GENDER": 2,
@@ -1661,25 +1829,7 @@
                     }
                 },
                 {
-                    "100": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "GENDER": 1,
-                        "NAME": 2,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "91": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "GENDER": 1,
-                        "NAME": 2,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "138": {
+                    "80": {
                         "DOB": 1,
                         "EMAIL": 1,
                         "NAME": 1,
@@ -1688,7 +1838,7 @@
                     }
                 },
                 {
-                    "293": {
+                    "136": {
                         "ADDRESS": 2,
                         "EMPLOYER": 1,
                         "NAME": 2,
@@ -1698,7 +1848,7 @@
                     }
                 },
                 {
-                    "20": {
+                    "22": {
                         "ADDRESS": 2,
                         "DOB": 1,
                         "NAME": 1,
@@ -1706,14 +1856,7 @@
                     }
                 },
                 {
-                    "166": {
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "116": {
+                    "72": {
                         "ADDRESS": 2,
                         "DOB": 1,
                         "NAME": 1,
@@ -1722,24 +1865,14 @@
                     }
                 },
                 {
-                    "150": {
-                        "ADDRESS": 1,
+                    "90": {
                         "EMAIL": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "304": {
-                        "ADDRESS": 1,
-                        "EMPLOYER": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_POINTER": 1
-                    }
-                },
-                {
-                    "190": {
+                    "103": {
                         "ADDRESS": 2,
                         "NAME": 2,
                         "RECORD_TYPE": 1,
@@ -1747,15 +1880,7 @@
                     }
                 },
                 {
-                    "176": {
-                        "ADDRESS": 2,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_ANCHOR": 1
-                    }
-                },
-                {
-                    "196": {
+                    "104": {
                         "ADDRESS": 2,
                         "NAME": 2,
                         "PHONE": 1,
@@ -1764,7 +1889,7 @@
                     }
                 },
                 {
-                    "192": {
+                    "105": {
                         "ADDRESS": 1,
                         "NAME": 2,
                         "RECORD_TYPE": 1,
@@ -1772,16 +1897,15 @@
                     }
                 },
                 {
-                    "333": {
-                        "ADDRESS": 1,
-                        "AMBIGUOUS_ENTITY": 1,
-                        "GENDER": 1,
+                    "95": {
+                        "ADDRESS": 2,
                         "NAME": 1,
-                        "RECORD_TYPE": 1
+                        "RECORD_TYPE": 1,
+                        "REL_ANCHOR": 1
                     }
                 },
                 {
-                    "189": {
+                    "101": {
                         "ADDRESS": 1,
                         "NAME": 3,
                         "PHONE": 1,
@@ -1791,16 +1915,7 @@
                     }
                 },
                 {
-                    "158": {
-                        "ADDRESS": 2,
-                        "EMAIL": 1,
-                        "GENDER": 2,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "184": {
+                    "99": {
                         "ADDRESS": 1,
                         "NAME": 4,
                         "RECORD_TYPE": 1,
@@ -1808,7 +1923,16 @@
                     }
                 },
                 {
-                    "44": {
+                    "161": {
+                        "ADDRESS": 1,
+                        "AMBIGUOUS_ENTITY": 1,
+                        "GENDER": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "40": {
                         "ADDRESS": 2,
                         "NAME": 1,
                         "PASSPORT": 1,
@@ -1816,65 +1940,129 @@
                     }
                 },
                 {
-                    "5": {
-                        "ADDRESS": 2,
-                        "DOB": 1,
-                        "DRLIC": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "204": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "121": {
-                        "ADDRESS": 2,
-                        "DOB": 1,
-                        "NAME": 1,
-                        "PASSPORT": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "178": {
-                        "ADDRESS": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "26": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "NAME": 1,
-                        "PASSPORT": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "54": {
+                    "45": {
                         "NAME": 1,
                         "PHONE": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "216": {
+                    "82": {
+                        "DOB": 1,
+                        "DRLIC": 1,
+                        "NAME": 2,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "16": {
                         "ADDRESS": 1,
+                        "DOB": 1,
+                        "NAME": 1,
+                        "PHONE": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "67": {
+                        "DOB": 1,
+                        "GENDER": 2,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1,
+                        "SSN": 1
+                    }
+                },
+                {
+                    "17": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "NAME": 1,
+                        "PASSPORT": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "28": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "NAME": 1,
+                        "PASSPORT": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "75": {
+                        "DOB": 1,
                         "EMAIL": 1,
+                        "GENDER": 2,
+                        "NAME": 1,
+                        "PHONE": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "92": {
+                        "DRLIC": 1,
+                        "GENDER": 2,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "144": {
+                    "73": {
+                        "DOB": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "PHONE": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "146": {
+                        "ADDRESS": 1,
+                        "EMPLOYER": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1,
+                        "REL_POINTER": 1
+                    }
+                },
+                {
+                    "141": {
+                        "EMAIL": 1,
+                        "EMPLOYER": 1,
+                        "NAME": 2,
+                        "PHONE": 1,
+                        "RECORD_TYPE": 1,
+                        "REL_POINTER": 1
+                    }
+                },
+                {
+                    "51": {
+                        "ADDRESS": 1,
+                        "DRLIC": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1,
+                        "SSN": 1
+                    }
+                },
+                {
+                    "139": {
+                        "ADDRESS": 1,
+                        "EMPLOYER": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1,
+                        "REL_POINTER": 1
+                    }
+                },
+                {
+                    "96": {
+                        "ADDRESS": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "83": {
                         "DOB": 1,
                         "DRLIC": 1,
                         "GENDER": 1,
@@ -1883,9 +2071,26 @@
                     }
                 },
                 {
-                    "308": {
+                    "148": {
                         "ADDRESS": 2,
+                        "EMPLOYER": 1,
+                        "NAME": 1,
+                        "PHONE": 1,
+                        "RECORD_TYPE": 1,
+                        "REL_POINTER": 1
+                    }
+                },
+                {
+                    "86": {
+                        "ADDRESS": 1,
                         "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "143": {
+                        "ADDRESS": 1,
                         "EMPLOYER": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1,
@@ -1893,25 +2098,43 @@
                     }
                 },
                 {
-                    "167": {
+                    "39": {
+                        "ADDRESS": 2,
+                        "DOB": 1,
                         "DRLIC": 1,
+                        "NAME": 2,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "87": {
+                        "ADDRESS": 2,
+                        "EMAIL": 1,
                         "GENDER": 2,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "106": {
+                    "112": {
+                        "ADDRESS": 1,
                         "DOB": 1,
-                        "GENDER": 2,
+                        "EMAIL": 1,
                         "NAME": 1,
-                        "RECORD_TYPE": 1,
-                        "SSN": 1
+                        "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "29": {
+                    "120": {
                         "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "70": {
+                        "ADDRESS": 2,
                         "DOB": 1,
                         "NAME": 1,
                         "PASSPORT": 1,
@@ -1919,109 +2142,30 @@
                     }
                 },
                 {
-                    "303": {
-                        "ADDRESS": 2,
-                        "EMPLOYER": 1,
-                        "NAME": 1,
-                        "PHONE": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_POINTER": 1
-                    }
-                },
-                {
-                    "47": {
-                        "ADDRESS": 2,
-                        "DOB": 1,
-                        "DRLIC": 1,
-                        "NAME": 2,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "119": {
-                        "DOB": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "PHONE": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "295": {
-                        "EMAIL": 1,
-                        "EMPLOYER": 1,
-                        "NAME": 2,
-                        "PHONE": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_POINTER": 1
-                    }
-                },
-                {
-                    "126": {
-                        "DOB": 1,
-                        "EMAIL": 1,
-                        "GENDER": 2,
-                        "NAME": 1,
-                        "PHONE": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "299": {
+                    "144": {
                         "EMPLOYER": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1,
                         "REL_POINTER": 1
                     }
                 },
-                {
-                    "294": {
-                        "ADDRESS": 1,
-                        "EMPLOYER": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_POINTER": 1
-                    }
-                },
-                {
-                    "142": {
-                        "DOB": 1,
-                        "DRLIC": 1,
-                        "NAME": 2,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "300": {
-                        "ADDRESS": 1,
-                        "EMPLOYER": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_POINTER": 1
-                    }
-                },
-                {
-                    "18": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "NAME": 1,
-                        "PHONE": 1,
-                        "RECORD_TYPE": 1
-                    }
-                }
-            ]
-        },
-        "5": {
-            "COUNT": 1,
-            "SAMPLE": [
                 {
                     "6": {
-                        "ADDRESS": 3,
+                        "ADDRESS": 2,
                         "DOB": 1,
+                        "DRLIC": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "145": {
+                        "ADDRESS": 2,
                         "EMAIL": 1,
-                        "NAME": 2,
+                        "EMPLOYER": 1,
+                        "NAME": 1,
                         "RECORD_TYPE": 1,
-                        "SSN": 1
+                        "REL_POINTER": 1
                     }
                 }
             ]
@@ -2030,15 +2174,31 @@
             "COUNT": 32,
             "SAMPLE": [
                 {
-                    "13": {
+                    "7": {
                         "DOB": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "19": {
+                    "11": {
                         "DOB": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "20": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "24": {
+                        "ADDRESS": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
@@ -2046,22 +2206,6 @@
                 {
                     "25": {
                         "ADDRESS": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "16": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "23": {
-                        "ADDRESS": 1,
                         "DOB": 1,
                         "GENDER": 1,
                         "NAME": 1,
@@ -2069,7 +2213,14 @@
                     }
                 },
                 {
-                    "21": {
+                    "43": {
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "29": {
                         "ADDRESS": 1,
                         "DOB": 1,
                         "NAME": 1,
@@ -2077,7 +2228,7 @@
                     }
                 },
                 {
-                    "51": {
+                    "44": {
                         "EMAIL": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
@@ -2085,34 +2236,50 @@
                 },
                 {
                     "56": {
-                        "EMAIL": 1,
+                        "ADDRESS": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "136": {
+                    "78": {
                         "DOB": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "199": {
+                    "107": {
                         "EMAIL": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "137": {
+                    "106": {
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "79": {
                         "DOB": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 },
                 {
-                    "194": {
+                    "111": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "108": {
                         "EMAIL": 1,
                         "NAME": 1,
                         "PHONE": 1,
@@ -2120,7 +2287,7 @@
                     }
                 },
                 {
-                    "193": {
+                    "109": {
                         "EMAIL": 1,
                         "NAME": 1,
                         "PHONE": 1,
@@ -2128,14 +2295,7 @@
                     }
                 },
                 {
-                    "197": {
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "207": {
+                    "115": {
                         "ADDRESS": 1,
                         "EMAIL": 1,
                         "NAME": 1,
@@ -2143,145 +2303,169 @@
                     }
                 },
                 {
-                    "203": {
+                    "122": {
                         "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "119": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "114": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "116": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "118": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "123": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "121": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "125": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "127": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "160": {
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "166": {
+                        "ADDRESS": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "154": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "124": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "117": {
+                        "ADDRESS": 1,
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "156": {
                         "DOB": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "211": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "208": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "215": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "210": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "329": {
-                        "DOB": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "328": {
-                        "DOB": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "220": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "225": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "235": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "214": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "231": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "229": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "228": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "330": {
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "338": {
-                        "ADDRESS": 1,
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "332": {
-                        "ADDRESS": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
                     }
                 }
             ]
         },
-        "3": {
-            "COUNT": 6,
+        "5": {
+            "COUNT": 2,
             "SAMPLE": [
                 {
-                    "39": {
+                    "8": {
+                        "ADDRESS": 3,
+                        "DOB": 1,
+                        "EMAIL": 1,
+                        "NAME": 2,
+                        "RECORD_TYPE": 1,
+                        "SSN": 1
+                    }
+                },
+                {
+                    "15": {
+                        "ADDRESS": 2,
+                        "DOB": 1,
+                        "EMAIL": 1,
+                        "NAME": 3,
+                        "RECORD_TYPE": 1
+                    }
+                }
+            ]
+        },
+        "3": {
+            "COUNT": 7,
+            "SAMPLE": [
+                {
+                    "33": {
+                        "EMAIL": 1,
+                        "NAME": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "50": {
+                        "DOB": 1,
+                        "DRLIC": 1,
+                        "NAME": 1,
+                        "PASSPORT": 1,
+                        "RECORD_TYPE": 1
+                    }
+                },
+                {
+                    "36": {
                         "DOB": 1,
                         "NAME": 1,
                         "PASSPORT": 1,
@@ -2289,14 +2473,7 @@
                     }
                 },
                 {
-                    "35": {
-                        "EMAIL": 1,
-                        "NAME": 1,
-                        "RECORD_TYPE": 1
-                    }
-                },
-                {
-                    "88": {
+                    "57": {
                         "ADDRESS": 1,
                         "DOB": 1,
                         "GENDER": 1,
@@ -2307,18 +2484,7 @@
                     }
                 },
                 {
-                    "86": {
-                        "ADDRESS": 1,
-                        "DOB": 1,
-                        "GENDER": 1,
-                        "NAME": 2,
-                        "NATIONAL_ID": 1,
-                        "RECORD_TYPE": 1,
-                        "REL_POINTER": 1
-                    }
-                },
-                {
-                    "182": {
+                    "98": {
                         "ADDRESS": 2,
                         "EMPLOYER": 1,
                         "NAME": 2,
@@ -2328,26 +2494,21 @@
                     }
                 },
                 {
-                    "14": {
+                    "60": {
+                        "ADDRESS": 1,
+                        "DOB": 1,
+                        "GENDER": 1,
+                        "NAME": 2,
+                        "NATIONAL_ID": 1,
+                        "RECORD_TYPE": 1,
+                        "REL_POINTER": 1
+                    }
+                },
+                {
+                    "10": {
                         "DOB": 1,
                         "NAME": 1,
                         "RECORD_TYPE": 1
-                    }
-                }
-            ]
-        },
-        "6": {
-            "COUNT": 1,
-            "SAMPLE": [
-                {
-                    "66": {
-                        "ADDRESS": 2,
-                        "DOB": 1,
-                        "DRLIC": 1,
-                        "NAME": 1,
-                        "PASSPORT": 1,
-                        "RECORD_TYPE": 1,
-                        "SSN": 1
                     }
                 }
             ]

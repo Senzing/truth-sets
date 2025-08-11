@@ -40,7 +40,7 @@ def get_attribute_id(attr_name, attribute_order, max_attribute_id):
 
 # Specify your input pattern and output file
 input_pattern = "/etl/senzing/github/truth-sets/truthsets/v4demo/*.jsonl"  # Change this to your wildcard pattern
-output_csv = "/etl/senzing/github/truth-sets/truthsets/v4demo/output.csv"
+output_csv = "/etl/senzing/github/truth-sets/truthsets/v4master/truthset_v4.csv"
 
 # Load attribute ordering from config
 attr_order, max_attr_id = load_attribute_order()
