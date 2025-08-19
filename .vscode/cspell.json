@@ -17,11 +17,7 @@
     ],
   "ignorePaths": [
     ".git/**",
-    "truthsets/demo/customers.csv",
-    "truthsets/demo/customers.json",
-    "truthsets/demo/reference.csv",
-    "truthsets/demo/reference.json",
-    "truthsets/demo/watchlist.csv",
-    "truthsets/demo/watchlist.json"
+    "truthsets/demo/**",
+    "truthsets/demo_v3"
   ]
 }
