@@ -1,0 +1,4 @@
+addDataSource CUSTOMERS
+addDataSource WATCHLIST
+addDataSource REFERENCE
+save
