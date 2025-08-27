@@ -2,6 +2,8 @@ export SCRIPTDIR=$(dirname "$0")
 
 sz_command -C "purge_repository --FORCEPURGE"
 
+sz_configtool -f ${SCRIPTDIR}/truthset_config.g2c
+
 sz_file_loader -f ${SCRIPTDIR}/*.jsonl  
 # sz_file_loader -f ${SCRIPTDIR}/customers.jsonl
 # sz_file_loader -f ${SCRIPTDIR}/watchlist.jsonl
