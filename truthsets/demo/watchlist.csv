@@ -1,0 +1,18 @@
+DATA_SOURCE,RECORD_ID,PRIMARY_NAME_FULL,PRIMARY_NAME_LAST,PRIMARY_NAME_FIRST,PRIMARY_NAME_MIDDLE,NATIVE_NAME_FULL,GENDER,DATE_OF_BIRTH,DRIVERS_LICENSE_NUMBER,DRIVERS_LICENSE_STATE,SSN_NUMBER,EMAIL_ADDRESS,ADDR_LINE1,ADDR_CITY,ADDR_STATE,ADDR_POSTAL_CODE,ADDR_COUNTRY,ADDR_TYPE,PHONE_NUMBER,EMPLOYER_NAME,RECORD_TYPE,CATEGORY,DATE,STATUS
+WATCHLIST,1006,,Smith Sr,Robert,E,,,3/31/1954,112233,NV,,,"123 Main St, Las Vegas ",,,,,MAILING,,,PERSON,Fraud,1/3/17,Active
+WATCHLIST,1007,,Smith,Patricia,,,,,,,,psmith@email.com,"1515 Adela Ln, LV, NV",,,89132,,HOME,,,PERSON,Fraud,2/4/20,Active
+WATCHLIST,1008,,Smith,Robert,,,,,,,,robert.smith@email.com,,,,,,,,,PERSON,Fraud,3/5/19,Active
+WATCHLIST,1012,,Kusha,Eddie,,,,3/1/1970,,,,,"1602 Brenville Pl, San Francisco, CA 94105",San Francisco,CA,94105,,MAILING,,,PERSON,Fraud,4/6/19,Active
+WATCHLIST,1014,,Knight,Eddie,,,,3/1/70,,,294-66-9999,,160 Brenville Pl,San Francisco,CA,94105,,MAILING,,,PERSON,Fraud,5/7/15,Inactive
+WATCHLIST,1021,,,,,,,,,,201-77-7719,Kusha123@hmail.com,1304 Poppy Hills Dr,Blacklick,OH,43004,,HOME,,,PERSON,Fraud,6/8/16,Active
+WATCHLIST,1024,,Antoun,Mhd,,,,1/7/80,,,,,,,,,,,,,PERSON,Fraud,7/9/18,Active
+WATCHLIST,1027,,Anderson,Darletta,,,,1/7/80,,,,,,,,,,,,,PERSON,Fraud,3/5/19,Active
+WATCHLIST,1029,,Dobbins Senior,David,,,,,,,,,"Suite 900, 1450 N City Rd",Arlington,,23208,,HOME,,,PERSON,Fraud,4/6/20,Active
+WATCHLIST,1037,,Sentosa,Maria,,,,12/11/73,,,,msentosa@fmail.com,"638 Downey St, Salem, OR",,,,,,,,PERSON,Fraud,5/7/15,Active
+WATCHLIST,1038,,Medina,Maria,,,,12/11/73,,,,msentosa@fmail.com,"638 Downey St, Salem, OR",,,,,,,,PERSON,Fraud,1/3/19,Active
+WATCHLIST,1041,,Smith,John,,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,Fraud,2/4/19,Active
+WATCHLIST,1042,,Smith,John,,,M,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,Fraud,3/5/18,Inactive
+WATCHLIST,2052,,,,,فيصل صديقي,,,,,,,Jia Musa Shahdara Sheikhupura Road,Lahore,,,Pakistan,PRIMARY,42-7925774,,PERSON,Sanctioned,2/22/2002,Current
+WATCHLIST,2062,,,,,"ВАСИЛЬЕВ, Александр Павлович",,,,,,,"Tolmacheva Ul., bld. 8, appt. 71 ",Smolensk,,,,,(4812)85-62-34,,PERSON,Sanctioned,4/14/2014,Current
+WATCHLIST,2082,"Hughes, Howie",,,,,,,,,,,"1231 Las Vegas Blvd, Penthouse Suite",Las Vegas,NV,,,HOME,,Universal Exports,PERSON,PEP,4/3/2019,Current
+WATCHLIST,2092,"Charney, Peggie",,,,,,,,,,,,,,,,,,Universal Exports,PERSON,PEP,4/3/2019,Current

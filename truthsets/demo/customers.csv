@@ -1,0 +1,121 @@
+DATA_SOURCE,RECORD_ID,PRIMARY_NAME_FULL,PRIMARY_NAME_ORG,PRIMARY_NAME_LAST,PRIMARY_NAME_FIRST,PRIMARY_NAME_MIDDLE,NATIVE_NAME_FULL,SECONDARY_NAME_ORG,GENDER,DATE_OF_BIRTH,PASSPORT_NUMBER,PASSPORT_COUNTRY,DRIVERS_LICENSE_NUMBER,DRIVERS_LICENSE_STATE,SSN_NUMBER,NATIONAL_ID_NUMBER,NATIONAL_ID_COUNTRY,EMAIL_ADDRESS,ADDR_FULL,ADDR_LINE1,ADDR_CITY,ADDR_STATE,ADDR_POSTAL_CODE,ADDR_COUNTRY,ADDR_TYPE,PHONE_NUMBER,PHONE_TYPE,RECORD_TYPE,AMOUNT,CATEGORY,DATE,STATUS
+CUSTOMERS,1001,,,Smith,Robert,,,,,12/11/1978,,,,,,,,,,"123 Main Street, Las Vegas NV 89132",,,,,MAILING,702-919-1300,HOME,PERSON,100,,1/2/18,Active
+CUSTOMERS,1002,,,Smith,Bob,,,,,11/12/1978,,,,,,,,,,1515 Adela Lane,Las Vegas,NV,89111,,HOME,702-919-1300,MOBILE,PERSON,200,,3/10/17,Inactive
+CUSTOMERS,1003,,,Smith,Bob,J,,,,12/11/1978,,,,,,,,bsmith@work.com,,,,,,,,,,PERSON,300,,4/9/16,Inactive
+CUSTOMERS,1004,,,Smith,B,,,,,11/12/1979,,,,,,,,bsmith@work.com,,1515 Adela Ln,Las Vegas,NV,89132,,HOME,,,PERSON,400,,1/5/15,Inactive
+CUSTOMERS,1005,,,Smith,Robbie,,,,,,,,112233,NV,,,,,,123 E Main St,Henderson,NV,89132,,MAILING,,,PERSON,500,,7/16/19,Active
+CUSTOMERS,1009,,,Kusha,Edward,,,,,3/1/1970,,,,,294-66-9999,,,Kusha123@hmail.com,,1304 Poppy Hills Dr,Blacklick,OH,43004,,HOME,,,PERSON,600,,1/7/18,Active
+CUSTOMERS,1010,,,Kusha,Eddie,,,,,Mar 1 1970,,,,,,,,,,1304 Poppy Hills Dr,Blacklick,OHIO,,,HOME,,,PERSON,700,,1/8/16,Inactive
+CUSTOMERS,1011,,,Knight,Ed,,,,,3/1/70,,,,,,,,,,1602 Brenville Pl,San Francisco,CA,94105,,HOME,,,PERSON,800,,10/9/15,Terminated
+CUSTOMERS,1015,,,Kusha,Mary ,,,,,10/27/76,,,,,293-90-9090,,,Kusha123@hmail.com,,1304 Poppy Hills Dr,Blacklick,OH,43004,,HOME,512-353-8633,HOME,PERSON,900,,1/10/18,Active
+CUSTOMERS,1016,,,Kusha,Marie,,,,,10/27/76,,,,,,,,,,1304 Poppy Hills Dr,,,43004,,HOME,,,PERSON,100,,1/11/18,Active
+CUSTOMERS,1017,,,Kusha,Mary ,,,,,,,,,,293-90-9090,,,,,,,,,,,,,PERSON,200,,1/12/18,Active
+CUSTOMERS,1018,,,Kusha,Marie,,,,,10/28/76,,,,,,,,,,,,,,,,512-353-8633,HOME,PERSON,300,,1/13/18,Active
+CUSTOMERS,1019,,,Kusha,Mark,,,,,9/28/97,,,,,,,,Kusha123@hmail.com,,1304 Poppy Hills Dr,Blacklick,OH,43004,,HOME,,,PERSON,400,,1/14/18,Active
+CUSTOMERS,1020,,,Kusha,Marsha,,,,,9/28/97,,,,,201-77-7719,,,Kusha123@hmail.com,,1304 Poppy Hills Dr,Blacklick,OH,43004,,HOME,,,PERSON,500,,1/15/18,Active
+CUSTOMERS,1022,,,Antoun,Mohamed,,,,,1/7/80,,,,,,,,,,,,,,,,,,PERSON,600,,1/16/18,Active
+CUSTOMERS,1023,,,Antoun,Muhammed,,,,,1/7/80,,,,,,,,,,,,,,,,,,PERSON,700,,1/17/18,Active
+CUSTOMERS,1025,,,Anderson,Darla,,,,,1/7/80,,,,,,,,,,,,,,,,,,PERSON,800,,1/18/18,Active
+CUSTOMERS,1026,,,Anderson,Darlene,,,,,1/7/80,,,,,,,,,,,,,,,,,,PERSON,900,,1/19/18,Active
+CUSTOMERS,1028,,,Dobbins Jr,David,,,,,,,,,,,,,,,1450 N City Rd Suite 900,Arlington,VA,23208,,MAILING,,,PERSON,100,,1/20/18,Active
+CUSTOMERS,1030,,,Garski,Luis,,,,,3/25/89,,,,,,,,,,445 Overpass Rd ,San Ramon ,CA ,927230000,,MAILING,,,PERSON,200,,1/21/18,Active
+CUSTOMERS,1031,,,Garsky,Louis,,,,,3/25/89,,,,,,,,,,445 Overpass Rd San Ramon,,,,,HOME,,,PERSON,300,,1/22/18,Active
+CUSTOMERS,1032,,,Shaw,Daniella,,,,,20/8/1991,,,,,,,,,,,,,,,,202-321-3212,HOME,PERSON,400,,1/23/18,Active
+CUSTOMERS,1033,,,Daniella,Shaw,,,,,8/20/91,,,,,,,,,,80 Delaware Ave SE Washington DC 40040,,,,,HOME,321-3212,HOME,PERSON,500,,1/24/18,Active
+CUSTOMERS,1034,,,Medina Sentosa,Maria Luis,,,,,11/21/73,,,,,,,,Maria Sentosa<msentosa@fmail.com>,,"9304 W. 15th St La Blanca, FL 60527",,,,,HOME,,,PERSON,600,,1/25/18,Active
+CUSTOMERS,1035,,,M Sentosa,Maria Luis,,,,,11/12/73,,,,,,,,,,"9304 W. 15th St La Blanca, FL 60527",,,,,HOME,,,PERSON,700,,1/26/18,Active
+CUSTOMERS,1036,,,Sentosa,Maria Luis,,,,,11/12/73,,,,,,,,,,"9304 W. 15th St La Blanca, FL 60527",,,,,HOME,,,PERSON,800,,1/27/18,Active
+CUSTOMERS,1039,,,Smith,John,,,,M,10/10/70,,,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,900,,1/28/18,Active
+CUSTOMERS,1040,,,Smith,John,,,,,3/15/90,,,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,100,,1/29/18,Active
+CUSTOMERS,1043,,,Smith,Patrick,,,,,10/10/70,10251111,US,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,200,,1/30/18,Active
+CUSTOMERS,1044,,,Smith,Patricia,,,,,3/15/90,10252222,US,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,300,,1/31/18,Active
+CUSTOMERS,1045,,,Smith,Pat,,,,,,10251111,USA,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,400,,1/2/18,Active
+CUSTOMERS,1046,,,Smith,Pat,,,,,,10252222,USA,,,,,,,,"3212 W. 32nd St Palm Harbor, FL 60527",,,,,HOME,,,PERSON,500,,1/3/18,Active
+CUSTOMERS,1047,,,Thompson,Zara,,,,,,,,,,,,,sthomp45@fmail.com,,,,,,,,,,PERSON,600,,1/4/18,Active
+CUSTOMERS,1048,,,Tompson,Sarah,,,,,,,,,,,,,sthomp45@fmail.com,,,,,,,,,,PERSON,700,,1/5/18,Active
+CUSTOMERS,1049,,,Thompson,Sahra,,,,,,,,,,,,,sthomp45@fmail.com,,,,,,,,,,PERSON,800,,1/6/18,Active
+CUSTOMERS,1050,,,Toulouse,Lee,,,,,2/1/85,483290175,USA,,,,,,,,,,,,,,,,PERSON,900,,1/7/18,Active
+CUSTOMERS,1051,,,Toulouse,Leigh,,,,,1/2/85,483290175,US,,,,,,,,,,,,,,,,PERSON,100,,1/8/18,Active
+CUSTOMERS,1052,,,Toulouse,Lea,,,,,,483290175,US,,,,,,,,,,,,,,,,PERSON,200,,1/9/18,Active
+CUSTOMERS,1053,,,Smith,Beau,,,,,,72129291,CA,,,,,,,,"6371 E Foothill Dr, Orroville, CA ",,,,,HOME,,,PERSON,300,,1/10/18,Active
+CUSTOMERS,1054,,,Smith,Magdalena,,,,,24-May-11,,,93939211,CA,,,,,,"6371 E Foothill Dr, Orroville, CA 95915",,,,,HOME,,,PERSON,400,,1/11/18,Active
+CUSTOMERS,1055,,,,Beau,,,,,,72129291,CAN,,,,,,,,"6371 E Foothill Dr, 95915",,,,,HOME,,,PERSON,500,,1/12/18,Active
+CUSTOMERS,1056,,,Jones,Magdalena,,,,,5/24/11,,,93939211,CA,,,,,,"6371 E Foothill Dr, Orroville, CA ",,,,,HOME,,,PERSON,600,,1/13/18,Active
+CUSTOMERS,1057,,,Jones,Jay,,,,,,,,,,,,,jjones@jones.com,,,,,,,,,,PERSON,700,,1/14/18,Active
+CUSTOMERS,1058,,,Jay,Jones,,,,,,,,,,,,,"""Jay Jones"" <jjones@fmail.com>",,,,,,,,,,PERSON,800,,1/15/18,Active
+CUSTOMERS,1059,,,Roderick,Ray,,,,,,,,,,,,,,,,,,,,,971-421-8250,HOME,PERSON,900,,1/16/18,Active
+CUSTOMERS,1060,,,Roderick,R,,,,,,,,,,,,,,,,,,,,,9714218250,HOME,PERSON,100,,1/17/18,Active
+CUSTOMERS,1061,,,Andreason,,,,,,,,,,,,,,,,,,,,,,(807) 422-9031,MOBILE,PERSON,200,,1/18/18,Active
+CUSTOMERS,1062,,,Andreason,,,,,,,,,,,,,,,,,,,,,,807-422-9031,,PERSON,300,,1/19/18,Active
+CUSTOMERS,1063,,,Mooney,Susan,,,,,6/15/98,,,,,,,,,,,,,,,,,,PERSON,400,,1/20/18,Active
+CUSTOMERS,1064,,,Mooney,Susanne,,,,,6/15/98,1231345345,US,,,,,,,,,,,,,,,,PERSON,500,,1/21/18,Active
+CUSTOMERS,1065,,,Mooney,Susan,,,,,,1231345345,US,8923322,OR,,,,,,,,,,,,,,PERSON,600,,1/22/18,Active
+CUSTOMERS,1066,,,Mooney,Susan,,,,,,,,8923322,OR,521-21-2123,,,,,,,,,,,,,PERSON,700,,1/23/18,Active
+CUSTOMERS,1067,,,Moonie,Susan,,,,,,,,,,521212123,,,,,"638 Downey St, Salem, OR",,,,,HOME,,,PERSON,800,,1/24/18,Active
+CUSTOMERS,1068,,,Moony,Susan,,,,,,,,,,,,,,,"Adventura Aparments 638 Downey St, Salem, OR",,,,,MAILING,,,PERSON,900,,1/25/18,Active
+CUSTOMERS,1069,,,,,,王杰,,M,9/14/93,,,,,,832721,,,,12 Constitution Street ,,,,,HOME,,,PERSON,100,,1/26/18,Active
+CUSTOMERS,1070,,,Wang,Jie,,,,Male,9/14/93,,,,,,832721,Hong Kong,,,12 Constitution Street ,,,,,HOME,,,PERSON,200,,1/27/18,Active
+CUSTOMERS,1071,,,,,,王伟,,F,9/14/97,,,,,,7123833,China,,,"169 3rd Ave. Camden, NJ 08030",,,,,HOME,,,PERSON,300,,1/28/18,Active
+CUSTOMERS,1072,,,Wang,Wei,,,,Female,9/14/97,,,,,,7123833,China,,,"169 3rd Ave. Camden, NJ 08030",,,,,HOME,,,PERSON,400,,1/29/18,Active
+CUSTOMERS,1073,,,,,,张伟,,M,8/2/06,,,,,,,,,,"173 John Lane, Camden, NJ 08030",,,,,HOME,,,PERSON,500,,1/30/18,Active
+CUSTOMERS,1074,,,Zhang,Wei,,,,Male,2/8/06,,,,,,,,,,"173 John Lane, 08030",,,,,HOME,,,PERSON,600,,1/31/18,Active
+CUSTOMERS,1075,,,,,,张秀英,,F,2/4/31,,,,,,,,,,"329 Leatherwood Street, Las Vegas, 89117",,,,,HOME,,,PERSON,700,,1/2/18,Active
+CUSTOMERS,1076,,,Zhang,Xiu Ying,,,,Female,4/2/31,,,,,,,,,,"329 Leatherwood Street, Las Vegas, NV",,,,,HOME,,,PERSON,800,,1/3/18,Active
+CUSTOMERS,1077,,,,,,刘杰,,F,6/25/08,,,,,,,,,,37 Campfire St. ,,,,,HOME,,,PERSON,900,,1/4/18,Active
+CUSTOMERS,1078,,,Liu,Jie,,,,Unknown,25-Jun-08,,,,,,,,,,37 Campfire St. ,,,,,HOME,,,PERSON,100,,1/5/18,Active
+CUSTOMERS,1079,,,Brown,Jeffrey,,,,U,6/21/82,,,,,3241,,,,,,,,,,,,,PERSON,200,,1/6/18,Active
+CUSTOMERS,1080,,,Brown Jr,Geoffrey,,,,M,6/21/82,,,,,3241,,,,,,,,,,,,,PERSON,300,,1/7/18,Active
+CUSTOMERS,1081,,,Frankens,George,,,,,15-Mar-92,234456456,DE,,,,,,,,"Ansbacher Strasse 23, 56422 Dusseldorf",,,56244,,HOME,,,PERSON,400,,1/8/18,Active
+CUSTOMERS,1082,,,Frankens,Georg,,,,,15-Mar-92,234456456,Germany,,,,,,,,23 Ansbacher Street,Dusseldorf,,56244,Germany,MAILING,,,PERSON,500,,1/9/18,Active
+CUSTOMERS,1083,,,Klempski,Morris,,,,,17-May-90,34543555,CA,,,,,,,,"Skyline Apartments, 705 Sheppard Ave",Toronto,,M1S 1T4,,HOME,,,PERSON,600,,1/10/18,Active
+CUSTOMERS,1084,,,Klempsky,Morrie,,,,,17-May-90,34543555,Canada,,,,,,,,705 Sheppard Ave,Toronto,,M1S 1T4,CAN,MAILING,,,PERSON,700,,1/11/18,Active
+CUSTOMERS,1085,,,D'esquire,Ellie,,,,,19-Feb-91,,,,,,,,dellie@fmail.com,,,,,,,,0352 6553537,HOME,PERSON,800,,1/12/18,Active
+CUSTOMERS,1086,,,Desqueir,Ellie,,,,,19-Feb-91,,,,,,,,dellie@fmail.com,,,,,,,,+39 0352 6553537,HOME,PERSON,900,,1/13/18,Active
+CUSTOMERS,1087,,,Wiest,George,,,,M,3/12/87,,,,,,,,pfranks@ishmail.com,,,,,,,,702-221-2412,HOME,PERSON,100,,1/14/18,Active
+CUSTOMERS,1088,,,Weest,George,,,,F,3/12/87,,,,,,,,pfranks@ishmail.com,,,,,,,,221-2412,HOME,PERSON,200,,1/15/18,Active
+CUSTOMERS,1089,,,Klein,Morris I,,,,,4/12/82,,,,,,,,,,,,,,,,,,PERSON,300,,1/16/18,Active
+CUSTOMERS,1090,,,Klein,Morris II,,,,,4/12/82,,,,,,,,,,,,,,,,,,PERSON,400,,1/17/18,Active
+CUSTOMERS,1091,,,Ohare,Ellie,,,,,8/15/67,,,,,,,,ellie.ohare@fmail.com,,,,,,,,0352 6553537,HOME,PERSON,500,,1/18/18,Active
+CUSTOMERS,1092,,,O'hare,Ellie,,,,,8/15/67,,,,,,,,ellie.ohare@fmail.com,,,,,,,,+39 0352 6553537,HOME,PERSON,600,,1/19/18,Active
+CUSTOMERS,1093,,,Anderson,Amanda,,,,,3/12/87,,,73423499,MN,,,,,,,,,,,,,,PERSON,700,,1/20/18,Active
+CUSTOMERS,1094,,,Jones,Amanda,,,,,3/12/87,,,73423499,MN,,,,,,,,,,,,,,PERSON,800,,1/21/18,Active
+CUSTOMERS,1095,,,Aguilar,Juan,,,,Male,4/12/82,,,234234455,MN,,,,,,,,,,,,,,PERSON,900,,1/22/18,Active
+CUSTOMERS,1096,,,Aguilar,Juann,,,,,4/12/82,,,234234455,MN,,,,,,,,,,,,,,PERSON,100,,1/23/18,Active
+CUSTOMERS,1097,,,Sanchez,Marie,,,,,,,,,,,,,mickey@mmail.com,,P.O. Box 12987,Andersonville,IL,60611,,MAILING,,MOBILE,PERSON,200,,1/24/18,Active
+CUSTOMERS,1098,,,Sanchez Mendoza,Marie,,,,,,,,,,,,,mickey@mmail.com,,PO BOX 12987,Chicago,IL,60611,,MAILING,,MOBILE,PERSON,300,,1/25/18,Active
+CUSTOMERS,1099,,,Aguilar,Anna Maria,,,,Female,,,,,,,,,mouse@mmail.com,,1812 Overture way,Chicago,IL,,,HOME,,MOBILE,PERSON,400,,1/26/18,Active
+CUSTOMERS,1100,,,Aguilar,Anna,Marie,,,Unknown,,,,,,,,,mouse@mmail.com,,9881 Freedom way,Chicago,IL,,,HOME,,MOBILE,PERSON,500,,1/27/18,Active
+CUSTOMERS,1101,,,Miller,Mark,,,,,,,,,,,,,mark@marksfoods.com,,,,,,,,,,PERSON,600,,1/28/18,Active
+CUSTOMERS,1102,,,Milner,Mark,,,,,,,,,,,,,mark@marksfoods.com,,,,,,,,,,PERSON,700,,1/29/18,Active
+CUSTOMERS,1103,,,Becker,Anabella,,,,U,,,,823123,TX,,,,,,,,,,,,,,PERSON,800,,1/30/18,Active
+CUSTOMERS,1104,,,Becker,Annabelle,,,,F,,,,823123,Texas,,,,,,,,,,,,,,PERSON,900,,1/31/18,Active
+CUSTOMERS,2011,,Hajah Mamunah (Jln Pisang),,,,,,,,,,,,,,,,"#01-11, HillV2, 4 Hillview Rise, 667979",,,,,Singapore,BUSINESS,,,ORGANIZATION,,Platinum,1/31/18,Inactive
+CUSTOMERS,2031,,,គឹម,តារា,,,,,,,,,,,,,,"No 321, Street 128 Phnom Penh Cambodia",,,,,,PRIMARY,,,PERSON,,Gold,3/15/1992,Active
+CUSTOMERS,2032,,,Kim,Dara,,,,,,,,,,,,,,,"#321, Street 128",Phnom Penh,,,Cambodia,PRIMARY,,,PERSON,,Silver,3/12/1998,Active
+CUSTOMERS,2042,,Mullenkrants ,,,,,Autoworks,,,,,,,,,,,,Hardenbergstrasse 87,,,66879,Germany,PRIMARY,,,ORGANIZATION,,Platinum,3/15/2019,Terminated
+CUSTOMERS,2063,Alexander Pavlovich Vasiliev,,,,,,,,,,,,,,,,,,,,,,,,481-285-6234,,PERSON,,Platinum,1/15/2000,Active
+CUSTOMERS,2072,,Univrsl Export Inc,,,,,,,,,,,,,,,,,100 Howard Hughs Plaza,Las Vegas,NV,89111,,BUSINESS,800-111-1234,,ORGANIZATION,,Silver,6/15/2005,Active
+CUSTOMERS,2073,,Worldwide Exports ,,,,,,,,,,,,,,,,,"Chrysler Building, 405 Lexington Avenue",New York,NY,10174,,REGISTERED,,,ORGANIZATION,,Platinum,12/10/2020,Active
+CUSTOMERS,2142,,Singapore exports,,,,,,,,,,,,,,,,"133 New Bridge Road, Chinatown Point, Singapore 059413",,,,,Singapore,PRIMARY,,,ORGANIZATION,,Silver,2/4/2012,Active
+CUSTOMERS,2152,,India Exports,,,,,,,,,,,,,,,,"Mullanpara Road, Old Vythiri, Vythiri, Wayanad, 673576, India",,,,,,PRIMARY,+91 4936 202565,,ORGANIZATION,,Gold,3/1/2010,Active
+CUSTOMERS,2171,,,Anderson,Andrew,,,,,,,,,,,,,info@ca-state.gov,,,,,,,,,,PERSON,,,,
+CUSTOMERS,2172,,,Anderson,Andy ,,,,,,,,,,,,,info@ca-state.gov,,,,,,,,,,PERSON,,,,
+CUSTOMERS,2181,,,Anderson,Anna,,,,,,,,,,,,,info@ca-state.gov,,,,,,,,702-221-2211,,PERSON,,,,
+CUSTOMERS,2182,,,Anderson,Annabelle,,,,,,,,,,,,,info@ca-state.gov,,,,,,,,702-221-2211,,PERSON,,,,
+CUSTOMERS,2191,,,Muir,Jim,,,,,1997-11-12,,,,,,,,info@ca-state.gov,,12396 Austin Rd,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2192,,,Muir,Jane,,,,,1999-12-10,,,,,,,,info@ca-state.gov,,12396 Austin Rd,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2193,,,Muir,J,,,,,1999-12-10,,,,,,,,info@ca-state.gov,,12396 Austin Rd,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2201,,,Swarm,Jorg,,,,,,,,,,,,,info@ca-state.gov,,127 14th Ave,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2202,,,Barge,Jorge,,,,,,,,,,,,,info@ca-state.gov,,4362 Belmont Lane,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2203,,,Gray,Gaston,,,,,,,,,,,,,info@ca-state.gov,,1376 BlueBell Road,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2204,,,Howard,Henry,,,,,,,,,,,,,info@ca-state.gov,,538 Blanco St,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2205,,,Inverness,Inez,,,,,,,,,,,,,info@ca-state.gov,,2516 BentTree Ln,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2206,,,Jackson,Julia,,,,,,,,,,,,,info@ca-state.gov,,319 Cody Road,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2207,,,Kellar,Kandace,,,,,,,,,,,,,info@ca-state.gov,,1824 AspenOak Way,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2208,,,Leonard,Leslie,,,,,,,,,,,,,info@ca-state.gov,,4362 Belmont Lane,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2209,,,Miller,Millie,,,,,,,,,,,,,info@ca-state.gov,,1376 BlueBell Road,Sacramento,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2210,,,Nice,Nelson,,,,,,,,,,,,,info@ca-state.gov,,319 Cody Road,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2211,,,Otter,Otto,,,,,,,,,,,,,info@ca-state.gov,,1824 AspenOak Way,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2212,,,Pemberton,Penny,,,,,,,,,,,,,info@ca-state.gov,,1824 AspenOak Way,Elmwood Park,CA,95823,,,,,PERSON,,,,
+CUSTOMERS,2213,,,Kellar,Candace,,,,,,,,,,,,,info@ca-state.gov,,1824 AspenOak Way,Elmwood Park,CA,95865,,,,,PERSON,,,,
+CUSTOMERS,2214,,,Sanders,Sandy,,,,,,,,,,,,,info@ca-state.gov,,1376 BlueBell Rd,Sacramento,CA,95823,,,,,PERSON,,,,
