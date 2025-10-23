@@ -1,0 +1,23 @@
+DATA_SOURCE,RECORD_ID,PRIMARY_NAME_FULL,PRIMARY_NAME_ORG,PRIMARY_NAME_LAST,PRIMARY_NAME_FIRST,NATIVE_NAME_FULL,SECONDARY_NAME_ORG,DATE_OF_BIRTH,EMAIL_ADDRESS,ADDR_FULL,ADDR_LINE1,ADDR_CITY,ADDR_STATE,ADDR_POSTAL_CODE,ADDR_COUNTRY,ADDR_TYPE,PHONE_NUMBER,PHONE_TYPE,EMPLOYER_NAME,RECORD_TYPE,REL_ANCHOR_KEY,REL_POINTER_KEY,REL_POINTER_ROLE,CATEGORY,DATE,STATUS
+REFERENCE,2012,,Hajah Maimunah,,,,,,,,4 Hillview Rise,SINGAPORE,,667979,Singapore,REGISTERED,,,,ORGANIZATION,2011,,,Proprietorship,2010,Active
+REFERENCE,2013,Wang Jie,,,,,,1993-09-14,,,,,,,,,,,,PERSON,,2011,Owns 60%,Owner,,Current
+REFERENCE,2014,Wang Wei,,,,,,1997-09-14,,,,,,,,,,,,PERSON,,2011,Owns 40%,Owner,,Current
+REFERENCE,2041,,Müllenkranz ,,,,Autowerkz,,,,Hardenbergstraße 87,Rheinland-Pfalz,,66879,Germany,PRIMARY,,,,ORGANIZATION,2041,,,Partnership,2009,Inactive
+REFERENCE,2051,Faisal Siddiqui,,,,,,,,,Jia Musa Shahdara Sheikhupura Road,Lahore,,,Pakistan,HOME,+92 42-7925774,,Müllenkranz,PERSON,,2041,President,President,,Current
+REFERENCE,2061,,,,,"ВАСІЛЬЕЎ, Аляксандр Паўлавіч",,,,"Tolmacheva Ul., bld. 8, appt. 71 Smolensk",,,,,RUS,,+7(4812)85-62-34,PRIMARY,Müllenkranz,PERSON,,2041,Owns 100%,Owner,,Current
+REFERENCE,2071,,"Universal Exports, USA",,,,Universal Exports,,,"Hughes Plaza, 100 Howard Hughes Way, Las Vegas, NV 89111",,,,,,BUSINESS,800-111-1234,,,ORGANIZATION,2071,2074,Global Parent,Corporation,1990,Active
+REFERENCE,2074,,Universal Exports Worldwide,,,,Universal Exports,,,,405 Lexington Avenue,Manhattan,NY,10174,,REGISTERED,,,,ORGANIZATION,2074,,,Corporation,1990,Active
+REFERENCE,2081,Howard Hughes,,,,,,,,,,,,,,,,,Universal Exports Worldwide,PERSON,,2074,Owns 50%,Owner,,Current
+REFERENCE,2091,Margaret Charney,,,,,,,,,,,,,,,,,Universal Exports Worldwide,PERSON,,2074,Owns 50%,Owner,,Current
+REFERENCE,2101,Keeley Jones,,,,,,,kjones@universal.com,,,,,,,,818-892-2818,,"Universal Exports, USA",PERSON,,2071,Principal,Director,,Current
+REFERENCE,2102,"Jones, Kaylee",,,,,,,kjones@universal.com,,,,,,,,18188922818,,,PERSON,,,,Contact,,Active
+REFERENCE,2111,Susan Meyer,,,,,,,,,"Fieldstrasse 10, FL-2198 Triesen",,,,Lichtenstein,PRIMARY,,,"Universal Exports, USA",PERSON,,2071,Principal,Director,,Current
+REFERENCE,2112,Susan Meyer Thomas,,,,,,,,"Fieldstrasse 10, FL-2198 Triesen, Lichtenstein",,,,,,PRIMARY,,,,PERSON,,,,Contact,,Active
+REFERENCE,2121,Kristen Salinger,,,,,,,,,123 King street,New York,NY,10012,,PRIMARY,320-392-2137,MOBILE,"Universal Exports, USA",PERSON,,2071,Principal,Director,,Current
+REFERENCE,2122,"Salenger, Kristin",,,,,,,,,8321 Duke Street,Los Angeles,CA,90015,,PRIMARY,(320) 392-2137,MOBILE,,PERSON,,,,Contact,,Active
+REFERENCE,2131,Rosemay A Thomas,,,,,,,,"18 Danver Place, Loughborough, Leicestershire, LE11 1UU, United Kingdom",,,,,,PRIMARY,,,"Universal Exports, USA",PERSON,,2071,Principal,Director,,Current
+REFERENCE,2132,,,Thomas,Rosemary A,,,,,"18 Danver Place, Loughborough, Leicestershire, United Kingdom, LE11 1UU",,,,,,PRIMARY,,,,PERSON,,,,Contact,,Active
+REFERENCE,2141,,Universal Exports Singapore,,,,Universal Exports,,,"Chinatown Point, 133 New Bridge Road, 059413 singapore",,,,,Singapore,REGISTERED,,,,ORGANIZATION,,2074,Global Parent,Corporation,1994,Active
+REFERENCE,2151,,Universal Exports India,,,,Universal Exports,,,"Mullanpara Road, Vythiri, 673576, India",,,,,,REGISTERED,4936202565,,,ORGANIZATION,,2074,Global Parent,Corporation,1998,Active
+REFERENCE,2161,,,Alexopoulos,Anastassia,,,,Nastassia<patak@universal.com>,,"6781 Metaxa Forest, Suite 296",Athens,GA,30009,,HOME,,,"Universal Exports, USA",PERSON,,2071,Principal,Director,,Current
+REFERENCE,2162,"Alexopoulos, Nastassia",,,,,,,patak@universal.com,,6781 Metaxa Forest,Athens,GA,30009,,PRIMARY,,,,PERSON,,,,Contact,,Active
