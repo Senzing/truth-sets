@@ -1,20 +1,18 @@
 {
-  // Version of the setting file.  Always 0.2
   "version": "0.2",
-  // language - current active spelling language
   "language": "en",
-  // words - list of words to be always considered correct
   "words": [
-      "CCLA",
-      "CODEOWNER",
-      "FORCEPURGE",
-      "ICLA",
-      "Senzing",
-      "stackoverflow",
-      "truthset",
-      "truthsets",
-      "watchlist"
-    ],
+    "CCLA",
+    "CODEOWNER",
+    "FORCEPURGE",
+    "ICLA",
+    "Senzing",
+    "esbenp",
+    "stackoverflow",
+    "truthset",
+    "truthsets",
+    "watchlist"
+  ],
   "ignorePaths": [
     ".git/**",
     "truthsets/demo/**",
