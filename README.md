@@ -6,8 +6,18 @@ Curated data files that Senzing uses for demos, testing, and auditing entity res
 
 ```
 truthsets/
-  demo/          # V4 format (current)
-  demo_v3/       # V3 format (legacy)
+  demo/
+    truthset_demo.sh                # Shell script to load, snapshot, audit, and explore
+    truthset_config.g2c             # Senzing engine configuration
+    customers.jsonl                 # Customer records
+    watchlist.jsonl                 # Watchlist records
+    reference.jsonl                 # Reference/third-party records
+    customers.csv                   # Customer records (CSV version)
+    watchlist.csv                   # Watchlist records (CSV version)
+    reference.csv                   # Reference/third-party records (CSV version)
+    actual_truthset_key.csv         # Expected correct ER results (ground truth)
+    alternate_truthset_key.csv      # Simulated results from a competing algorithm
+  demo_v3/                          # V3 format (older)
 ```
 
 ## Data Sources
