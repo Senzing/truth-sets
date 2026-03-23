@@ -5,7 +5,6 @@
     "CCLA",
     "CODEOWNER",
     "cooldown",
-    "esbenp",
     "firmographics",
     "FORCEPURGE",
     "ICLA",
@@ -16,5 +15,9 @@
     "truthsets",
     "watchlist"
   ],
-  "ignorePaths": [".git/**", "truthsets/demo/**", "truthsets/demo_v3"]
+  "ignorePaths": [
+    ".git/**",
+    "truthsets/demo/**",
+    "truthsets/demo_v3"
+  ]
 }
