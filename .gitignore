@@ -5,3 +5,4 @@
 !.vscode/cspell.json
 *.code-workspace
 .history
+.claude/settings.local.json
